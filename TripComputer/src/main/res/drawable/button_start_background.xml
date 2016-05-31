@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+
+Uses drawable/card_background_day.xml or drawable/card_background_night.xml depending on the NIGHT_MODE setting.
+Had to use a hack to get the background technique to work with different themes. This is possibly because the SOLID shapes used
+by the UI as card backgrounds seem to be immutable and won't allow the use of attrs.xml based definitions for their colour.
+Workaround is to use 2 files (day/night) with fixed colours, but get the Style for the Layout to use a STRING attribute
+for the background name which can be switched at runtime.
+
+-->
+<!--layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:bottom="@dimen/zero_dip">
+        <shape
+            android:shape="rectangle"
+            android:dither="false">
+
+            <solid android:color="@color/TripComputerStartButton" />
+
+            <!-<gradient
+                android:startColor="@color/TripComputerStartButton"
+                android:centerColor="@color/TripComputerStartButton"
+                android:endColor="@color/TripComputerStartButton"
+                android:angle="90"
+                android:type="linear"/>->
+        </shape >
+    </item>
+</layer-list -->
+
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- pressed -->
+    <item android:state_pressed="true" android:drawable="@color/Black"/>
+    <!-- focused -->
+    <item android:state_focused="true" android:drawable="@android:color/transparent"/>
+    <!--default -->
+    <item android:drawable="@color/TripComputerStartButton"/>
+</selector>

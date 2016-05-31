@@ -1,0 +1,1 @@
+adb shell monkey -p com.soagrowers.android.tripcomputer -v 10001 >monkey.txt

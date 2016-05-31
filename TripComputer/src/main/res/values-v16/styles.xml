@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!-- *** JELLY BEAN v16 ONWARDS *** -->
+<resources>
+    <style name="TextViewBase.Title">
+        <!-- fontFamily introduced in v16 -->
+        <item name="android:fontFamily">sans-serif-condensed</item><!-- Thin, Light, Condensed -->
+        <item name="android:textColor">?attrMyCardTitleColor</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_gravity">top|left</item>
+        <item name="android:gravity">top|left</item>
+        <!--<item name="android:textAllCaps">true</item>-->
+        <!--<item name="android:padding">@dimen/recommended_padding</item>-->
+        <!--<item name="android:layout_margin">@dimen/recommended_padding</item>-->
+    </style>
+    <style name="TextViewBase.Detail">
+        <!-- fontFamily introduced in v16 -->
+        <item name="android:fontFamily">sans-serif-light</item><!-- Thin, Light, Condensed -->
+        <item name="android:textColor">?attrMyCardDetailColor</item>
+        <item name="android:textSize">@dimen/text_size_xlarge</item>
+        <item name="android:layout_gravity">bottom|left</item>
+        <item name="android:gravity">bottom|left</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:maxLength">@integer/detail_max_length</item>
+        <item name="android:maxLines">@integer/detail_max_lines</item>
+        <item name="android:layout_marginTop">@dimen/double_recommended_padding</item>
+    </style>
+</resources>

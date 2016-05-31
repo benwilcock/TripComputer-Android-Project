@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Default Application Theme. Referenced from AndroidManifest.xml -->
+    <style name="AppTheme" parent="AppBaseThemeDay"></style>
+
+    <!-- Daytime Theme -->
+    <style name="AppBaseThemeDay" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="attrMyCardBackgroundDrawable">@drawable/card_background_day</item>
+        <item name="attrMyCardTitleColor">@color/TripComputerCardTitleDay</item>
+        <item name="attrMyCardDetailColor">@color/TripComputerCardDetailDay</item>
+        <item name="attrMyAppScreenBackgroundColor">@color/TripComputerScreenBackgroundDay</item>
+        <item name="colorPrimary">@color/TripComputerDayColorPrimary</item>
+        <item name="colorPrimaryDark">@color/TripComputerDayColorPrimaryDark</item>
+        <item name="colorAccent">@color/TripComputerDayColorAccent</item>
+        <!--
+        Uses drawable/card_background_day.xml or drawable/card_background_night.xml depending on the NIGHT_MODE setting.
+        Had to use a hack to get the background technique to work with different themes. This is possibly because the SOLID shapes used
+        by the UI as card backgrounds seem to be immutable and won't allow the use of attrs.xml based definitions for their colour.
+        Workaround is to use 2 files (day/night) with fixed colours, but get the Style for the Layout to use a STRING attribute
+        for the background name which can be switched at runtime.
+        -->
+    </style>
+
+    <!-- Nighttime Theme -->
+    <style name="AppBaseThemeNight" parent="@style/Theme.AppCompat">
+        <!--item name="actionBarStyle">@style/Widget.Styled.ActionBar.Night</item-->
+        <item name="attrMyCardBackgroundDrawable">@drawable/card_background_night</item>
+        <item name="attrMyCardTitleColor">@color/TripComputerCardTitleNight</item>
+        <item name="attrMyCardDetailColor">@color/TripComputerCardDetailNight</item>
+        <item name="attrMyAppScreenBackgroundColor">@color/TripComputerScreenBackgroundNight</item>
+        <item name="colorPrimary">@color/TripComputerNightColorPrimary</item>
+        <item name="colorPrimaryDark">@color/TripComputerNightColorPrimaryDark</item>
+        <item name="colorAccent">@color/TripComputerNightColorAccent</item>
+
+        <!--
+		Uses drawable/card_background_day.xml or drawable/card_background_night.xml depending on the NIGHT_MODE setting.
+		Had to use a hack to get the background technique to work with different themes. This is possibly because the SOLID shapes used
+		by the UI as card backgrounds seem to be immutable and won't allow the use of attrs.xml based definitions for their colour.
+		Workaround is to use 2 files (day/night) with fixed colours, but get the Style for the Layout to use a STRING attribute
+		for the background name which can be switched at runtime.
+		-->
+    </style>
+
+    <!-- Nighttime ActionBar -->
+    <style name="Widget.Styled.ActionBar.Night" parent="@style/Widget.AppCompat.ActionBar">
+        <!--<item name="background">@drawable/card_background_night</item>-->
+        <item name="background">@drawable/actionbar_background_night</item>
+    </style>
+
+    <style name="ToolbarTextStyle" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/White</item>
+
+        <!--
+        <item name="android:shadowColor">@color/White</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:clickable">false</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">10</item>
+        -->
+    </style>
+
+
+    <!-- CardItem is used by a LinearLayout to draw each UI Card -->
+    <style name="CardItem">
+        <!--
+        CardItem Style below uses drawable/card_background_day.xml or drawable/card_background_night.xml depending on the NIGHT_MODE setting.
+        Had to use a hack to get the background technique to work with different themes. This is possibly because the SOLID shapes used
+        by the UI as card backgrounds seem to be immutable and won't allow the use of attrs.xml based definitions for their colour.
+        Workaround is to use 2 files (day/night) with fixed colours, but get the Style for the Layout to use a STRING attribute
+        for the background name which can be switched at runtime.
+        -->
+        <item name="android:background">?attrMyCardBackgroundDrawable</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:baselineAligned">false</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_marginLeft">@dimen/card_margin_side</item>
+        <item name="android:layout_marginRight">@dimen/card_margin_side</item>
+        <item name="android:layout_marginTop">@dimen/card_margin_bottom</item>
+        <item name="android:layout_marginBottom">@dimen/card_margin_top</item>
+    </style>
+
+    <!-- TextViewBase is the Base for the Cards' Title and Detail -->
+    <style name="TextViewBase" parent="@android:style/Widget.TextView">
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:padding">@dimen/zero_dip</item>
+    </style>
+    <!-- TextViewBase.Title is an extension of the TextViewBase style used for the Cards' Title -->
+    <style name="TextViewBase.Title">
+        <item name="android:textColor">?attrMyCardTitleColor</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:layout_gravity">top|left</item>
+        <item name="android:gravity">top|left</item>
+    </style>
+
+    <!-- TextViewBase.Detail is an extension of the TextViewBase style used for the Cards' Details
+    right|fill_vertical-->
+    <style name="TextViewBase.Detail">
+        <item name="android:textColor">?attrMyCardDetailColor</item>
+        <item name="android:textSize">@dimen/text_size_xlarge</item>
+        <item name="android:layout_gravity">bottom|left</item>
+        <item name="android:gravity">bottom|left</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:maxLength">@integer/detail_max_length</item>
+        <item name="android:maxLines">@integer/detail_max_lines</item>
+        <item name="android:layout_marginTop">@dimen/double_recommended_padding</item>
+    </style>
+
+    <!-- TextButtonTextStyle is used for the clickable text button's text -->
+    <style name="TextButtonTextStyle" parent="@android:style/Widget.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:clickable">false</item>
+        <item name="android:padding">4dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+        <item name="android:textColor">@color/White</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:background">@drawable/transparent_selector</item>
+        <!--item name="android:shadowColor">@color/White</item>
+        <item name="android:shadowDx">0</item>
+        <item name="android:shadowDy">0</item>
+        <item name="android:shadowRadius">10</item-->
+    </style>
+    <!-- TextButtonLayoutStyle is used for the clickable text button's Layout -->
+    <style name="TextButtonLayoutStyle">
+        <item name="android:clickable">true</item>
+        <item name="android:layout_width">@dimen/zero_dip</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:layout_weight">@integer/default_weight</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">center_horizontal|center_vertical</item>
+        <item name="android:layout_gravity">center_vertical|center_horizontal</item>
+    </style>
+
+    <style name="VerticalSingleColCardList">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:orientation">vertical</item>
+        <!-- animateLayoutChanges introduced in v11 -->
+        <item name="android:animateLayoutChanges">true</item>
+    </style>
+
+    <style name="HorizontalDoubleColCardList">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">@dimen/zero_dip</item>
+        <item name="android:layout_weight">@integer/default_weight</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <!-- animateLayoutChanges introduced in v11 -->
+        <item name="android:animateLayoutChanges">true</item>
+    </style>
+
+    <style name="TextButtonBarStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/button_bar_height</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:gravity">bottom</item>
+        <item name="android:layout_gravity">bottom</item>
+        <!-- animateLayoutChanges introduced in v11 -->
+        <item name="android:animateLayoutChanges">false</item>
+    </style>
+
+    <!-- ShowcaseView Layout Customisations follow...-->
+
+    <style name="TripComputerShowcaseTheme" parent="ShowcaseView">
+        <item name="sv_backgroundColor">#d9000000</item>
+        <item name="sv_showcaseColor">#ff00afff</item>
+        <item name="sv_buttonText">Close</item>
+        <item name="sv_titleTextAppearance">@style/ShowcaseCustomTitle</item>
+    </style>
+
+    <style name="ShowcaseCustomTitle" parent="TextAppearance.ShowcaseView.Title">
+        <item name="android:textColor">#ff00afff</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:padding">@dimen/recommended_unit_height</item>
+        <item name="android:layout_margin">@dimen/recommended_unit_height</item>
+        <item name="android:textSize">@dimen/text_size_xlarge</item>
+    </style>
+
+    <style name="TextAppearance.ShowcaseView.Detail" parent="android:style/TextAppearance.Large">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:padding">@dimen/recommended_unit_height</item>
+        <item name="android:layout_margin">@dimen/recommended_unit_height</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="ShowcaseButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">italic|bold</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:padding">@dimen/showcase_button_padding</item>
+        <item name="android:minWidth">@dimen/showcase_button_minWidth</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">@drawable/button</item>
+    </style>
+
+</resources>

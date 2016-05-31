@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- new line 'Charge' -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:visibility="visible"
+    style="@style/CardItem"
+    android:id="@+id/layout_charge">
+
+    <TextView
+        style="@style/TextViewBase.Title"
+        android:text="@string/label_charge"/>
+
+    <TextView
+        style="@style/TextViewBase.Detail"
+        android:id="@+id/charge"
+        android:text="@string/txt_blank"
+        tools:text="£4.50 (@0.45p)"/>
+</LinearLayout>

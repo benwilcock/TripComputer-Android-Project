@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- new line 'Ended Near' -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:visibility="visible"
+    style="@style/CardItem"
+    android:id="@+id/layout_ended_in">
+
+    <TextView
+        style="@style/TextViewBase.Title"
+        android:text="@string/label_destination"/>
+
+    <TextView
+        style="@style/TextViewBase.Detail"
+        android:id="@+id/ended_in"
+        tools:text="Taunton"/>
+</LinearLayout>

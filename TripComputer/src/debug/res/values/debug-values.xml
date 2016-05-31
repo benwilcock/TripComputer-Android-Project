@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+Log Level
+Affects the verbosity of the information sent to LogCat (and LogFile)
+VERBOSE = 0, DEBUG = 1, INFO = 2, WARN = 3, ERROR = 4
+-->
+    <integer name="logLevel">0</integer>
+
+    <!--
+    Log To File
+    Saves the Log to a file.
+    -->
+    <bool name="feature.logToFile">false</bool>
+</resources>

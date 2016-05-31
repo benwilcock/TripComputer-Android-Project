@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/pref_Category_Basic">
+
+        <CheckBoxPreference
+            android:key="@string/LOW_POWER_MODE_KEY"
+            android:title="@string/pref_LowPowerMode_Title"
+            android:defaultValue="false"
+            android:summary="@string/pref_LowPowerMode_Summary"
+            />
+
+        <ListPreference
+            android:key="@string/DISTANCE_UNITS_KEY"
+            android:title="@string/pref_TitleDistanceUnits"
+            android:dialogTitle="@string/pref_dialogHeadingDistanceUnits"
+            android:entries="@array/pref_dialogChoicesUnitTypes"
+            android:entryValues="@array/pref_DistanceUnitTypeValues"
+            android:defaultValue="@string/pref_DistanceUnitTypeDefaultValue"
+            android:summary=""/>
+
+        <!-- Creates a NumberPicker for the selection of the Charge rate -->
+        <com.soagrowers.android.tripcomputer.DistanceChargePreferenceDialog
+            android:key="@string/DISTANCE_UNIT_CHARGE_KEY"
+            android:title="@string/pref_TitleDistanceUnitCharge"
+            android:dialogTitle="@string/pref_DialogueTitleDistanceUnitCharge"
+            android:defaultValue="@string/charge_per_unit"
+            android:summary=""/>
+
+        <!-- Setting for switching On / OFF Auto Start / Stop -->
+        <CheckBoxPreference
+            android:key="@string/AUTO_STARTSTOP_KEY"
+            android:title="@string/pref_AutoStartStop_Title"
+            android:defaultValue="true"
+            android:summary="@string/pref_AutoStartStop_Summary"
+            />
+
+        <!-- Setting to allow you to ignore short journeys -->
+        <CheckBoxPreference
+            android:key="@string/IGNORE_SHORT_TRIPS_KEY"
+            android:title="@string/pref_IgnoreShortTrips_Title"
+            android:defaultValue="false"
+            android:summary="@string/pref_IgnoreShortTrips_Summary"
+            />
+
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_Category_Advanced">
+
+        <CheckBoxPreference
+            android:key="@string/STAY_AWAKE_KEY"
+            android:title="@string/pref_StayAwake_Title"
+            android:defaultValue="false"
+            android:summary="@string/pref_StayAwake_Summary"
+            />
+
+        <CheckBoxPreference
+            android:key="@string/ADVANCED_CARDS_KEY"
+            android:title="@string/pref_AdvancedCards_Title"
+            android:defaultValue="true"
+            android:summary="@string/pref_AdvancedCards_Summary"
+            />
+
+        <CheckBoxPreference
+            android:key="@string/NIGHT_MODE_KEY"
+            android:title="@string/pref_NightMode_Title"
+            android:defaultValue="false"
+            android:summary="@string/pref_NightMode_Summary"
+            />
+
+        <ListPreference
+            android:key="@string/ACCURACY_THRESHOLD_KEY"
+            android:title="@string/pref_TitleAccuracyThreshold"
+            android:dialogTitle="@string/pref_dialogHeadingAccuracyThreshold"
+            android:entries="@array/pref_dialogChoicesAccuracyThresholdTypes"
+            android:entryValues="@array/pref_AccuracyThresholdTypeValues"
+            android:defaultValue="@string/pref_AccuracyThresholdTypeDefaultValue"
+            android:summary=""/>
+
+    </PreferenceCategory>
+</PreferenceScreen>
+    <!--
+    android:key
+    This attribute is required for preferences that persist a data value. It specifies the unique key (a string) the system uses when saving this setting's value in the SharedPreferences.
+    The only instances in which this attribute is not required is when the preference is a PreferenceCategory or PreferenceScreen, or the preference specifies an Intent to invoke (with an <intent> element) or a Fragment to display (with an android:fragment attribute).
+
+    android:title
+    This provides a user-visible name for the setting.
+
+    android:defaultValue
+    This specifies the initial value that the system should set in the SharedPreferences file. You should supply a default value for all settings.
+
+
+        <?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:key="pref_sync"
+        android:title="@string/pref_sync"
+        android:summary="@string/pref_sync_summ"
+        android:defaultValue="true" />
+    <ListPreference
+        android:dependency="pref_sync"
+        android:key="pref_syncConnectionType"
+        android:title="@string/pref_syncConnectionType"
+        android:dialogTitle="@string/pref_syncConnectionType"
+        android:entries="@array/pref_syncConnectionTypes_entries"
+        android:entryValues="@array/pref_syncConnectionTypes_values"
+        android:defaultValue="@string/pref_syncConnectionTypes_default" />
+</PreferenceScreen>
+-->

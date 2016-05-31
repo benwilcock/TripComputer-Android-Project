@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="?android:scrollViewStyle"
+    android:id="@+id/fragment_journey_information"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/fragment_margin"
+    android:paddingRight="@dimen/fragment_margin"
+    android:paddingTop="@dimen/fragment_margin"
+    android:paddingBottom="@dimen/zero_dip"
+    android:scrollbars="none"
+    tools:scrollbars="none">
+
+    <LinearLayout
+        style="@style/VerticalSingleColCardList">
+
+        <include layout="@layout/layout_started_time"/>
+        <include layout="@layout/layout_ended_time"/>
+        <include layout="@layout/layout_distance"/>
+        <include layout="@layout/layout_charge"/>
+        <include layout="@layout/layout_duration"/>
+        <include layout="@layout/layout_average_speed"/>
+
+        <include layout="@layout/layout_started_in"/>
+        <include layout="@layout/layout_currently_in"/>
+        <include layout="@layout/layout_ended_in"/>
+        <include layout="@layout/layout_heading"/>
+        <include layout="@layout/layout_activity"/>
+
+        <!-- ADVANCED CARDS -->
+        <include layout="@layout/layout_latitude"/>
+        <include layout="@layout/layout_longitude"/>
+        <include layout="@layout/layout_location_accuracy"/>
+        <include layout="@layout/layout_location_qty"/>
+        <include layout="@layout/layout_altitude"/>
+
+        <!-- SPACER -->
+        <!--include layout="@layout/button_bar_spacer"/-->
+
+    </LinearLayout>
+</ScrollView>

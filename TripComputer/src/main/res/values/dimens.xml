@@ -1,0 +1,55 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">8dp</dimen>
+    <dimen name="activity_vertical_margin">8dp</dimen>
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="text_size_xlarge">28sp</dimen>
+    <dimen name="text_size_xxlarge">36sp</dimen>
+    <dimen name="icon_border">8dp</dimen>
+    <dimen name="button_border">4dp</dimen>
+    <dimen name="zero_dip">0dip</dimen>
+    <dimen name="one_dip">1dip</dimen>
+    <dimen name="two_dip">2dip</dimen>
+    <dimen name="divider_padding">8dip</dimen>
+    <dimen name="recommended_padding">8dip</dimen>
+    <dimen name="double_recommended_padding">16dip</dimen>
+
+
+    <dimen name="recommended_unit_height">48dp</dimen>
+    <dimen name="button_bar_height">48dp</dimen>
+    <dimen name="toolbar_height">60dp</dimen>
+    <dimen name="artificial_divider_height">1dip</dimen>
+    <dimen name="shadow_corner_radius_night">3dp</dimen>
+    <dimen name="pre_Holo_button_padding">12dip</dimen>
+
+    <!-- CARD SETTINGS -->
+    <dimen name="fragment_margin">4dip</dimen>
+    <dimen name="card_margin_top">4dip</dimen>
+    <dimen name="card_margin_side">2dip</dimen>
+    <dimen name="card_margin_bottom">0dip</dimen>
+    <dimen name="corner_radius_card_day">1dp</dimen>
+    <dimen name="corner_radius_shadow_day">2dp</dimen>
+    <dimen name="card_shadow_layer_reveal_day">4dp</dimen>
+    <dimen name="corner_radius_card_night">1dp</dimen>
+    <dimen name="corner_radius_shadow_night">2dp</dimen>
+    <dimen name="card_shadow_layer_reveal_night">4dp</dimen>
+    <dimen name="card_shadow_layer_buffer_day">70dp</dimen>
+    <dimen name="card_shadow_layer_buffer_night">70dp</dimen>
+    <dimen name="card_padding">8dip</dimen>
+
+    <!-- Resources that must be integers -->
+    <integer name="title_column_weight">35</integer>
+    <integer name="detail_column_weight">65</integer>
+    <integer name="detail_max_lines">1</integer>
+    <integer name="detail_max_length">28</integer>
+    <integer name="default_weight">1</integer>
+
+    <!-- ShowcaseView Customisations... -->
+    <dimen name="text_padding">16dp</dimen><!-- was 24dp-->
+    <dimen name="showcase_button_padding">12dp</dimen>
+    <dimen name="showcase_button_minWidth">96dp</dimen>
+
+</resources>

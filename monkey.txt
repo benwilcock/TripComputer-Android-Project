@@ -1,0 +1,2443 @@
+:Monkey: seed=1418625383197 count=10001
+:AllowPackage: com.soagrowers.android.tripcomputer
+:IncludeCategory: android.intent.category.LAUNCHER
+:IncludeCategory: android.intent.category.MONKEY
+// Event percentages:
+//   0: 15.0%
+//   1: 10.0%
+//   2: 2.0%
+//   3: 15.0%
+//   4: -0.0%
+//   5: 25.0%
+//   6: 15.0%
+//   7: 2.0%
+//   8: 2.0%
+//   9: 1.0%
+//   10: 13.0%
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(272.0,447.0)
+:Sending Touch (ACTION_UP): 0:(278.14294,437.9168)
+:Sending Touch (ACTION_DOWN): 0:(32.0,277.0)
+:Sending Touch (ACTION_UP): 0:(23.270178,285.73984)
+:Sending Touch (ACTION_DOWN): 0:(388.0,922.0)
+:Sending Touch (ACTION_UP): 0:(320.49945,751.4721)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(127.0,947.0)
+:Sending Touch (ACTION_UP): 0:(121.359955,874.76697)
+:Sending Touch (ACTION_DOWN): 0:(109.0,1092.0)
+:Sending Touch (ACTION_UP): 0:(98.25042,1093.9445)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    //[calendar_time:2014-12-02 11:20:35.642  system_uptime:14055686]
+    // Sending event #100
+    //[calendar_time:2014-12-02 11:20:35.727  system_uptime:14055687]
+    // Sending event #100
+:Sending Touch (ACTION_DOWN): 0:(229.0,1062.0)
+:Sending Touch (ACTION_UP): 0:(202.57544,1057.1248)
+:Sending Touch (ACTION_DOWN): 0:(406.0,560.0)
+:Sending Touch (ACTION_UP): 0:(396.5364,565.4324)
+:Sending Touch (ACTION_DOWN): 0:(79.0,284.0)
+:Sending Touch (ACTION_UP): 0:(60.967033,249.54025)
+:Sending Touch (ACTION_DOWN): 0:(148.0,1139.0)
+:Sending Touch (ACTION_UP): 0:(145.40443,1139.7789)
+:Sending Touch (ACTION_DOWN): 0:(173.0,1086.0)
+:Sending Touch (ACTION_UP): 0:(174.3796,1091.1548)
+:Sending Touch (ACTION_DOWN): 0:(424.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(426.91193,1090.6891)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(566.0,447.0)
+:Sending Touch (ACTION_UP): 0:(574.6281,449.10913)
+:Sending Touch (ACTION_DOWN): 0:(568.0,896.0)
+:Sending Touch (ACTION_UP): 0:(567.03467,890.11865)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(10.0,192.0)
+:Sending Touch (ACTION_UP): 0:(0.0,188.74911)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(679.0,950.0)
+:Sending Touch (ACTION_UP): 0:(680.8056,933.19196)
+    //[calendar_time:2014-12-02 11:20:36.243  system_uptime:14056204]
+    // Sending event #200
+    //[calendar_time:2014-12-02 11:20:36.244  system_uptime:14056204]
+    // Sending event #200
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(501.0,185.0)
+:Sending Touch (ACTION_UP): 0:(494.0822,182.23927)
+:Sending Touch (ACTION_DOWN): 0:(13.0,1087.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1183.8519)
+:Sending Touch (ACTION_DOWN): 0:(596.0,631.0)
+:Sending Touch (ACTION_UP): 0:(591.66486,632.95984)
+:Sending Touch (ACTION_DOWN): 0:(397.0,559.0)
+:Sending Touch (ACTION_UP): 0:(397.89026,558.6861)
+:Sending Touch (ACTION_DOWN): 0:(396.0,424.0)
+:Sending Touch (ACTION_UP): 0:(399.0935,420.72037)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(306.0,864.0)
+:Sending Touch (ACTION_UP): 0:(320.93417,883.2683)
+:Sending Touch (ACTION_DOWN): 0:(303.0,76.0)
+:Sending Touch (ACTION_UP): 0:(309.5615,81.86701)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-5.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+    //[calendar_time:2014-12-02 11:20:36.551  system_uptime:14056511]
+    // Sending event #300
+:Sending Touch (ACTION_DOWN): 0:(704.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(703.46094,1066.1827)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(589.0,81.0)
+:Sending Touch (ACTION_UP): 0:(597.4749,82.66748)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    // Rejecting start of Intent { act=android.media.action.STILL_IMAGE_CAMERA_SECURE cat=[motorola.intent.category.QUICK_LAUNCH] pkg=com.motorola.camera cmp=com.motorola.camera/.Camera } in package com.motorola.camera
+:Sending Touch (ACTION_DOWN): 0:(606.0,1052.0)
+:Sending Touch (ACTION_UP): 0:(602.2192,1051.8357)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    //[calendar_time:2014-12-02 11:20:37.986  system_uptime:14057946]
+    // Sending event #400
+:Sending Touch (ACTION_DOWN): 0:(197.0,1070.0)
+:Sending Touch (ACTION_UP): 0:(202.52966,1069.3003)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(682.0,1085.0)
+:Sending Touch (ACTION_UP): 0:(673.83356,1166.0872)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(382.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(323.77798,1184.0)
+:Sending Touch (ACTION_DOWN): 0:(17.0,808.0)
+:Sending Touch (ACTION_UP): 0:(0.0,744.6735)
+:Sending Touch (ACTION_DOWN): 0:(513.0,940.0)
+:Sending Touch (ACTION_UP): 0:(516.36707,938.2442)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(696.0,1000.0)
+:Sending Touch (ACTION_UP): 0:(694.78503,1008.09705)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1123.0)
+:Sending Touch (ACTION_UP): 0:(259.1026,1118.5676)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(218.0,458.0)
+:Sending Touch (ACTION_UP): 0:(243.91876,501.7677)
+:Sending Touch (ACTION_DOWN): 0:(14.0,441.0)
+:Sending Touch (ACTION_UP): 0:(26.792904,447.13504)
+    //[calendar_time:2014-12-02 11:20:38.817  system_uptime:14058777]
+    // Sending event #500
+:Sending Touch (ACTION_DOWN): 0:(488.0,667.0)
+:Sending Touch (ACTION_UP): 0:(478.9432,677.7401)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(511.0,268.0)
+:Sending Touch (ACTION_UP): 0:(516.01807,255.2404)
+:Sending Touch (ACTION_DOWN): 0:(706.0,287.0)
+:Sending Touch (ACTION_UP): 0:(628.59143,327.0769)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(698.0,760.0)
+:Sending Touch (ACTION_UP): 0:(613.11597,851.141)
+:Sending Touch (ACTION_DOWN): 0:(7.0,560.0)
+:Sending Touch (ACTION_UP): 0:(7.0642295,553.05426)
+:Sending Touch (ACTION_DOWN): 0:(603.0,707.0)
+:Sending Touch (ACTION_UP): 0:(604.9559,703.0316)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,4.0)
+    //[calendar_time:2014-12-02 11:20:39.881  system_uptime:14059841]
+    // Sending event #600
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(61.0,149.0)
+:Sending Touch (ACTION_UP): 0:(0.0,125.83557)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(64.0,1009.0)
+:Sending Touch (ACTION_UP): 0:(33.15081,915.24945)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(580.0,130.0)
+:Sending Touch (ACTION_UP): 0:(585.9907,130.00417)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(106.0,96.0)
+:Sending Touch (ACTION_UP): 0:(124.42751,101.31603)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(145.0,141.0)
+:Sending Touch (ACTION_UP): 0:(147.45154,141.51279)
+:Sending Touch (ACTION_DOWN): 0:(614.0,514.0)
+:Sending Touch (ACTION_UP): 0:(642.2198,475.54312)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+    //[calendar_time:2014-12-02 11:20:41.148  system_uptime:14061108]
+    // Sending event #700
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(503.0,679.0)
+:Sending Touch (ACTION_UP): 0:(483.1219,678.6477)
+:Sending Touch (ACTION_DOWN): 0:(555.0,49.0)
+:Sending Touch (ACTION_UP): 0:(555.172,35.719463)
+:Sending Touch (ACTION_DOWN): 0:(252.0,525.0)
+:Sending Touch (ACTION_UP): 0:(258.62503,536.07166)
+    // Rejecting start of Intent { act=android.media.action.STILL_IMAGE_CAMERA_SECURE cat=[motorola.intent.category.QUICK_LAUNCH] pkg=com.motorola.camera cmp=com.motorola.camera/.Camera } in package com.motorola.camera
+:Sending Touch (ACTION_DOWN): 0:(296.0,289.0)
+:Sending Touch (ACTION_UP): 0:(335.29645,318.96826)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(344.0,543.0)
+:Sending Touch (ACTION_UP): 0:(378.67514,584.97095)
+:Sending Touch (ACTION_DOWN): 0:(630.0,224.0)
+:Sending Touch (ACTION_UP): 0:(628.8801,241.17355)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(111.0,105.0)
+    //[calendar_time:2014-12-02 11:20:41.753  system_uptime:14061713]
+    // Sending event #800
+:Sending Touch (ACTION_UP): 0:(44.025684,142.57747)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(382.0,673.0)
+:Sending Touch (ACTION_UP): 0:(385.70023,711.6776)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(670.0,293.0)
+:Sending Touch (ACTION_UP): 0:(644.6355,318.83813)
+:Sending Touch (ACTION_DOWN): 0:(63.0,64.0)
+:Sending Touch (ACTION_UP): 0:(57.19324,55.797432)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-2.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(653.0,360.0)
+:Sending Touch (ACTION_UP): 0:(645.2641,353.07568)
+:Sending Touch (ACTION_DOWN): 0:(657.0,968.0)
+:Sending Touch (ACTION_UP): 0:(586.0053,880.7037)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(452.0,672.0)
+:Sending Touch (ACTION_UP): 0:(530.10034,623.6631)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(175.0,1092.0)
+:Sending Touch (ACTION_UP): 0:(171.9153,1089.8436)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    //[calendar_time:2014-12-02 11:20:42.329  system_uptime:14062289]
+    // Sending event #900
+:Sending Touch (ACTION_DOWN): 0:(401.0,449.0)
+:Sending Touch (ACTION_UP): 0:(357.03934,343.4568)
+:Sending Touch (ACTION_DOWN): 0:(171.0,445.0)
+:Sending Touch (ACTION_UP): 0:(204.68985,457.86008)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(628.0,213.0)
+:Sending Touch (ACTION_UP): 0:(589.1118,270.63303)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(309.0,936.0)
+:Sending Touch (ACTION_UP): 0:(308.41287,934.96344)
+:Sending Touch (ACTION_DOWN): 0:(650.0,418.0)
+:Sending Touch (ACTION_UP): 0:(576.47845,329.4373)
+:Sending Touch (ACTION_DOWN): 0:(427.0,1036.0)
+    //[calendar_time:2014-12-02 11:20:43.097  system_uptime:14063057]
+    // Sending event #1000
+:Sending Touch (ACTION_UP): 0:(416.4909,1045.8744)
+:Sending Touch (ACTION_DOWN): 0:(714.0,218.0)
+:Sending Touch (ACTION_UP): 0:(705.9292,211.71484)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(69.0,921.0)
+:Sending Touch (ACTION_UP): 0:(27.70517,963.44916)
+:Sending Touch (ACTION_DOWN): 0:(137.0,771.0)
+:Sending Touch (ACTION_UP): 0:(135.90341,768.7756)
+:Sending Touch (ACTION_DOWN): 0:(487.0,647.0)
+:Sending Touch (ACTION_UP): 0:(441.66992,540.043)
+:Sending Touch (ACTION_DOWN): 0:(510.0,1112.0)
+:Sending Touch (ACTION_UP): 0:(504.13687,1089.196)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(478.2853,1093.2085)
+:Sending Touch (ACTION_DOWN): 0:(358.0,758.0)
+:Sending Touch (ACTION_UP): 0:(382.63342,740.3697)
+:Sending Touch (ACTION_DOWN): 0:(5.0,204.0)
+:Sending Touch (ACTION_UP): 0:(6.279581,212.3851)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(611.0,419.0)
+:Sending Touch (ACTION_UP): 0:(595.2693,418.3254)
+:Sending Touch (ACTION_DOWN): 0:(231.0,947.0)
+:Sending Touch (ACTION_UP): 0:(232.16225,947.2187)
+    //[calendar_time:2014-12-02 11:20:43.607  system_uptime:14063567]
+    // Sending event #1100
+:Sending Touch (ACTION_DOWN): 0:(199.0,992.0)
+:Sending Touch (ACTION_UP): 0:(189.811,987.38794)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(31.0,1047.0)
+:Sending Touch (ACTION_UP): 0:(42.804974,1045.522)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://play.google.com/store/apps/details?id=com.soagrowers.android.tripcomputer cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Touch (ACTION_DOWN): 0:(466.0,520.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_UP): 0:(478.54633,528.26984)
+:Sending Touch (ACTION_DOWN): 0:(127.0,716.0)
+:Sending Touch (ACTION_UP): 0:(126.983696,721.98083)
+:Sending Touch (ACTION_DOWN): 0:(638.0,167.0)
+:Sending Touch (ACTION_UP): 0:(636.8781,173.45369)
+:Sending Touch (ACTION_DOWN): 0:(546.0,1109.0)
+:Sending Touch (ACTION_UP): 0:(483.6555,1139.5768)
+:Sending Touch (ACTION_DOWN): 0:(85.0,1170.0)
+:Sending Touch (ACTION_UP): 0:(87.831474,1169.8602)
+:Sending Touch (ACTION_DOWN): 0:(653.0,327.0)
+:Sending Touch (ACTION_UP): 0:(666.645,361.3828)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(592.0,538.0)
+:Sending Touch (ACTION_UP): 0:(606.73303,543.829)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(134.0,226.0)
+:Sending Touch (ACTION_UP): 0:(130.48296,221.70189)
+    //[calendar_time:2014-12-02 11:20:45.067  system_uptime:14065028]
+    // Sending event #1200
+    //[calendar_time:2014-12-02 11:20:45.068  system_uptime:14065028]
+    // Sending event #1200
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(359.0,893.0)
+:Sending Touch (ACTION_UP): 0:(354.8242,876.68634)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(414.0,554.0)
+:Sending Touch (ACTION_UP): 0:(413.00363,566.5966)
+:Sending Touch (ACTION_DOWN): 0:(23.0,354.0)
+:Sending Touch (ACTION_UP): 0:(39.155777,339.0701)
+:Sending Touch (ACTION_DOWN): 0:(532.0,324.0)
+:Sending Touch (ACTION_UP): 0:(531.2523,332.2936)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-4.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(28.0,804.0)
+:Sending Touch (ACTION_UP): 0:(25.779095,809.7238)
+:Sending Touch (ACTION_DOWN): 0:(84.0,111.0)
+:Sending Touch (ACTION_UP): 0:(49.432755,195.01215)
+    //[calendar_time:2014-12-02 11:20:46.322  system_uptime:14066282]
+    // Sending event #1300
+    //[calendar_time:2014-12-02 11:20:46.323  system_uptime:14066283]
+    // Sending event #1300
+:Sending Touch (ACTION_DOWN): 0:(421.0,278.0)
+:Sending Touch (ACTION_UP): 0:(420.81866,284.1567)
+:Sending Touch (ACTION_DOWN): 0:(498.0,1079.0)
+:Sending Touch (ACTION_UP): 0:(497.84656,1080.468)
+:Sending Touch (ACTION_DOWN): 0:(242.0,635.0)
+:Sending Touch (ACTION_UP): 0:(239.6965,613.63605)
+:Sending Touch (ACTION_DOWN): 0:(58.0,439.0)
+:Sending Touch (ACTION_UP): 0:(57.86098,440.11877)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(529.0,256.0)
+:Sending Touch (ACTION_UP): 0:(620.471,284.14264)
+:Sending Touch (ACTION_DOWN): 0:(180.0,63.0)
+:Sending Touch (ACTION_UP): 0:(126.141464,0.0)
+:Sending Touch (ACTION_DOWN): 0:(106.0,186.0)
+:Sending Touch (ACTION_UP): 0:(102.90714,185.7946)
+:Sending Touch (ACTION_DOWN): 0:(5.0,128.0)
+:Sending Touch (ACTION_UP): 0:(0.0,170.71463)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(672.0,91.0)
+:Sending Touch (ACTION_UP): 0:(678.41016,110.86893)
+:Sending Touch (ACTION_DOWN): 0:(153.0,479.0)
+:Sending Touch (ACTION_UP): 0:(155.87878,491.67212)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    //[calendar_time:2014-12-02 11:20:48.150  system_uptime:14068110]
+    // Sending event #1400
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(174.0,937.0)
+:Sending Touch (ACTION_UP): 0:(166.72273,930.5094)
+:Sending Touch (ACTION_DOWN): 0:(263.0,16.0)
+:Sending Touch (ACTION_UP): 0:(386.70294,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(247.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(258.1079,1025.3479)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(441.0,1142.0)
+:Sending Touch (ACTION_UP): 0:(439.26117,1138.8132)
+:Sending Touch (ACTION_DOWN): 0:(556.0,753.0)
+:Sending Touch (ACTION_UP): 0:(570.4479,758.87964)
+:Sending Touch (ACTION_DOWN): 0:(285.0,31.0)
+:Sending Touch (ACTION_UP): 0:(282.41696,30.849342)
+:Sending Touch (ACTION_DOWN): 0:(553.0,810.0)
+:Sending Touch (ACTION_UP): 0:(553.07294,816.1138)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2014-12-02 11:20:48.971  system_uptime:14068931]
+    // Sending event #1500
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(454.0,247.0)
+:Sending Touch (ACTION_UP): 0:(454.23938,242.78403)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(272.0,1155.0)
+:Sending Touch (ACTION_UP): 0:(331.75735,1184.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(91.0,166.0)
+:Sending Touch (ACTION_UP): 0:(128.0972,175.32268)
+:Sending Touch (ACTION_DOWN): 0:(569.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(568.84454,1061.16)
+:Sending Touch (ACTION_DOWN): 0:(659.0,391.0)
+:Sending Touch (ACTION_UP): 0:(665.5713,382.70923)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(449.0,375.0)
+:Sending Touch (ACTION_UP): 0:(449.98254,376.27924)
+:Sending Touch (ACTION_DOWN): 0:(436.0,334.0)
+:Sending Touch (ACTION_UP): 0:(466.79233,328.75397)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2014-12-02 11:20:49.646  system_uptime:14069606]
+    // Sending event #1600
+:Sending Touch (ACTION_DOWN): 0:(225.0,1026.0)
+:Sending Touch (ACTION_UP): 0:(231.8793,1023.3194)
+:Sending Touch (ACTION_DOWN): 0:(662.0,804.0)
+:Sending Touch (ACTION_UP): 0:(658.2137,800.864)
+:Sending Touch (ACTION_DOWN): 0:(297.0,150.0)
+:Sending Touch (ACTION_UP): 0:(295.19165,137.8495)
+:Sending Touch (ACTION_DOWN): 0:(198.0,442.0)
+:Sending Touch (ACTION_UP): 0:(171.60173,405.78357)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(361.0,577.0)
+:Sending Touch (ACTION_UP): 0:(342.0251,563.74066)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(504.0,339.0)
+:Sending Touch (ACTION_UP): 0:(519.25464,294.35678)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(461.0,515.0)
+:Sending Touch (ACTION_UP): 0:(528.1614,520.4361)
+:Sending Touch (ACTION_DOWN): 0:(23.0,32.0)
+    //[calendar_time:2014-12-02 11:20:49.991  system_uptime:14069951]
+    // Sending event #1700
+:Sending Touch (ACTION_UP): 0:(19.59649,24.505823)
+:Sending Touch (ACTION_DOWN): 0:(129.0,776.0)
+:Sending Touch (ACTION_UP): 0:(158.59225,866.3976)
+:Sending Touch (ACTION_DOWN): 0:(665.0,566.0)
+:Sending Touch (ACTION_UP): 0:(671.21344,553.9629)
+:Sending Touch (ACTION_DOWN): 0:(240.0,841.0)
+:Sending Touch (ACTION_UP): 0:(242.78108,839.10724)
+:Sending Touch (ACTION_DOWN): 0:(479.0,879.0)
+:Sending Touch (ACTION_UP): 0:(472.5366,879.1956)
+:Sending Touch (ACTION_DOWN): 0:(85.0,686.0)
+:Sending Touch (ACTION_UP): 0:(61.976192,587.96564)
+:Sending Touch (ACTION_DOWN): 0:(19.0,492.0)
+:Sending Touch (ACTION_UP): 0:(17.324911,491.89014)
+:Sending Touch (ACTION_DOWN): 0:(576.0,480.0)
+:Sending Touch (ACTION_UP): 0:(588.68536,484.82916)
+:Sending Touch (ACTION_DOWN): 0:(155.0,625.0)
+:Sending Touch (ACTION_UP): 0:(95.72712,635.2709)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(136.0,297.0)
+:Sending Touch (ACTION_UP): 0:(95.89237,304.77258)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(578.0,290.0)
+    //[calendar_time:2014-12-02 11:20:51.154  system_uptime:14071115]
+    // Sending event #1800
+:Sending Touch (ACTION_UP): 0:(577.4542,293.9762)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(89.0,1019.0)
+:Sending Touch (ACTION_UP): 0:(73.117645,1031.9453)
+:Sending Touch (ACTION_DOWN): 0:(230.0,521.0)
+:Sending Touch (ACTION_UP): 0:(238.10323,521.09973)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(607.0,692.0)
+:Sending Touch (ACTION_UP): 0:(606.0132,704.17926)
+:Sending Touch (ACTION_DOWN): 0:(506.0,89.0)
+:Sending Touch (ACTION_UP): 0:(510.3329,91.96356)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(468.0,943.0)
+:Sending Touch (ACTION_UP): 0:(482.44125,946.80304)
+:Sending Touch (ACTION_DOWN): 0:(136.0,439.0)
+:Sending Touch (ACTION_UP): 0:(135.278,445.34973)
+:Sending Touch (ACTION_DOWN): 0:(278.0,775.0)
+:Sending Touch (ACTION_UP): 0:(283.41913,755.0287)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(201.0,791.0)
+:Sending Touch (ACTION_UP): 0:(190.5354,782.90796)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(365.0,215.0)
+:Sending Touch (ACTION_UP): 0:(419.65118,246.69568)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2014-12-02 11:20:52.413  system_uptime:14072374]
+    // Sending event #1900
+:Sending Touch (ACTION_DOWN): 0:(541.0,658.0)
+:Sending Touch (ACTION_UP): 0:(535.7406,654.8378)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(283.0,470.0)
+:Sending Touch (ACTION_UP): 0:(274.7495,471.0739)
+:Sending Touch (ACTION_DOWN): 0:(222.0,775.0)
+:Sending Touch (ACTION_UP): 0:(223.84186,781.2484)
+:Sending Touch (ACTION_DOWN): 0:(55.0,1128.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1102.7771)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(534.0,612.0)
+:Sending Touch (ACTION_UP): 0:(517.40454,573.2022)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-1.0)
+    //[calendar_time:2014-12-02 11:20:53.062  system_uptime:14073023]
+    // Sending event #2000
+:Sending Touch (ACTION_DOWN): 0:(664.0,406.0)
+:Sending Touch (ACTION_UP): 0:(663.82135,400.11618)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,51.0)
+:Sending Touch (ACTION_UP): 0:(278.33313,50.240963)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(355.0,825.0)
+:Sending Touch (ACTION_UP): 0:(352.3331,820.33356)
+:Sending Touch (ACTION_DOWN): 0:(439.0,863.0)
+:Sending Touch (ACTION_UP): 0:(440.53174,850.47943)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(98.0,747.0)
+:Sending Touch (ACTION_UP): 0:(87.97655,750.95337)
+:Sending Touch (ACTION_DOWN): 0:(712.0,696.0)
+:Sending Touch (ACTION_UP): 0:(720.0,688.16)
+:Sending Touch (ACTION_DOWN): 0:(477.0,544.0)
+:Sending Touch (ACTION_UP): 0:(466.81976,520.3492)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+    //[calendar_time:2014-12-02 11:20:53.330  system_uptime:14073290]
+    // Sending event #2100
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(459.0,1100.0)
+:Sending Touch (ACTION_UP): 0:(465.88858,1103.2366)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(311.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(310.97986,1072.2576)
+:Sending Touch (ACTION_DOWN): 0:(235.0,113.0)
+:Sending Touch (ACTION_UP): 0:(231.84213,115.5332)
+:Sending Touch (ACTION_DOWN): 0:(204.0,263.0)
+:Sending Touch (ACTION_UP): 0:(191.21883,263.05856)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,3.0)
+    //[calendar_time:2014-12-02 11:20:54.252  system_uptime:14074212]
+    // Sending event #2200
+:Sending Touch (ACTION_DOWN): 0:(355.0,1015.0)
+:Sending Touch (ACTION_UP): 0:(328.4646,965.31415)
+:Sending Touch (ACTION_DOWN): 0:(11.0,603.0)
+:Sending Touch (ACTION_UP): 0:(15.676805,599.6087)
+:Sending Touch (ACTION_DOWN): 0:(202.0,233.0)
+:Sending Touch (ACTION_UP): 0:(193.73193,232.94164)
+:Sending Touch (ACTION_DOWN): 0:(635.0,161.0)
+:Sending Touch (ACTION_UP): 0:(635.6782,158.51697)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(647.0,51.0)
+:Sending Touch (ACTION_UP): 0:(640.79266,42.510967)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    //[calendar_time:2014-12-02 11:20:55.261  system_uptime:14075222]
+    // Sending event #2300
+:Sending Touch (ACTION_DOWN): 0:(165.0,319.0)
+:Sending Touch (ACTION_UP): 0:(289.09738,339.14838)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(147.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(145.14777,1050.8146)
+:Sending Touch (ACTION_DOWN): 0:(298.0,503.0)
+:Sending Touch (ACTION_UP): 0:(208.45238,577.3486)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(11.0,834.0)
+:Sending Touch (ACTION_UP): 0:(5.0925508,827.31696)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(501.0,1158.0)
+:Sending Touch (ACTION_UP): 0:(517.5131,1155.4883)
+    //[calendar_time:2014-12-02 11:20:55.638  system_uptime:14075598]
+    // Sending event #2400
+    //[calendar_time:2014-12-02 11:20:55.639  system_uptime:14075599]
+    // Sending event #2400
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-5.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(400.0,183.0)
+:Sending Touch (ACTION_UP): 0:(396.14374,168.23228)
+:Sending Touch (ACTION_DOWN): 0:(322.0,47.0)
+:Sending Touch (ACTION_UP): 0:(251.50648,139.9716)
+:Sending Touch (ACTION_DOWN): 0:(285.0,645.0)
+:Sending Touch (ACTION_UP): 0:(287.8703,654.9313)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(341.0,1006.0)
+:Sending Touch (ACTION_UP): 0:(391.53842,1025.766)
+:Sending Touch (ACTION_DOWN): 0:(533.0,1088.0)
+:Sending Touch (ACTION_UP): 0:(566.882,1115.6863)
+:Sending Touch (ACTION_DOWN): 0:(696.0,797.0)
+:Sending Touch (ACTION_UP): 0:(699.8939,794.28705)
+:Sending Touch (ACTION_DOWN): 0:(481.0,881.0)
+:Sending Touch (ACTION_UP): 0:(472.26303,881.6121)
+:Sending Touch (ACTION_DOWN): 0:(235.0,385.0)
+:Sending Touch (ACTION_UP): 0:(218.90614,378.54257)
+:Sending Touch (ACTION_DOWN): 0:(111.0,367.0)
+:Sending Touch (ACTION_UP): 0:(105.26609,364.11624)
+    //[calendar_time:2014-12-02 11:20:56.156  system_uptime:14076116]
+    // Sending event #2500
+    //[calendar_time:2014-12-02 11:20:56.157  system_uptime:14076117]
+    // Sending event #2500
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.UsbSettings } in package com.android.settings
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.UsbSettings } in package com.android.settings
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(652.0,874.0)
+:Sending Touch (ACTION_UP): 0:(645.67914,887.0089)
+:Sending Touch (ACTION_DOWN): 0:(489.0,392.0)
+:Sending Touch (ACTION_UP): 0:(503.80023,348.95624)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(190.0,714.0)
+:Sending Touch (ACTION_UP): 0:(208.41837,711.71643)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(38.0,525.0)
+:Sending Touch (ACTION_UP): 0:(25.949656,518.36505)
+:Sending Touch (ACTION_DOWN): 0:(81.0,203.0)
+:Sending Touch (ACTION_UP): 0:(85.409515,203.2471)
+:Sending Touch (ACTION_DOWN): 0:(184.0,808.0)
+:Sending Touch (ACTION_UP): 0:(194.91083,807.6841)
+:Sending Touch (ACTION_DOWN): 0:(195.0,916.0)
+:Sending Touch (ACTION_UP): 0:(230.34442,953.9888)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(401.0,596.0)
+    //[calendar_time:2014-12-02 11:20:57.175  system_uptime:14077135]
+    // Sending event #2600
+:Sending Touch (ACTION_UP): 0:(448.2976,693.7964)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(150.0,458.0)
+:Sending Touch (ACTION_UP): 0:(168.23984,467.37064)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(99.0,619.0)
+:Sending Touch (ACTION_UP): 0:(99.30765,619.5646)
+:Sending Touch (ACTION_DOWN): 0:(557.0,738.0)
+:Sending Touch (ACTION_UP): 0:(610.20825,789.14655)
+:Sending Touch (ACTION_DOWN): 0:(194.0,364.0)
+:Sending Touch (ACTION_UP): 0:(175.91406,344.94827)
+:Sending Touch (ACTION_DOWN): 0:(572.0,916.0)
+:Sending Touch (ACTION_UP): 0:(506.31558,1044.0842)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(74.0,600.0)
+:Sending Touch (ACTION_UP): 0:(79.45954,619.58417)
+    //[calendar_time:2014-12-02 11:20:58.663  system_uptime:14078623]
+    // Sending event #2700
+    //[calendar_time:2014-12-02 11:20:58.664  system_uptime:14078624]
+    // Sending event #2700
+:Sending Touch (ACTION_DOWN): 0:(597.0,246.0)
+:Sending Touch (ACTION_UP): 0:(598.0546,241.72742)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(354.0,755.0)
+:Sending Touch (ACTION_UP): 0:(249.27525,844.1222)
+:Sending Touch (ACTION_DOWN): 0:(651.0,243.0)
+:Sending Touch (ACTION_UP): 0:(717.1924,261.64267)
+:Sending Touch (ACTION_DOWN): 0:(497.0,449.0)
+:Sending Touch (ACTION_UP): 0:(501.4402,443.17368)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(230.0,552.0)
+:Sending Touch (ACTION_UP): 0:(237.04086,567.38055)
+:Sending Touch (ACTION_DOWN): 0:(639.0,1121.0)
+    //[calendar_time:2014-12-02 11:20:59.384  system_uptime:14079345]
+    // Sending event #2800
+:Sending Touch (ACTION_UP): 0:(635.1141,1116.8607)
+:Sending Touch (ACTION_DOWN): 0:(627.0,34.0)
+:Sending Touch (ACTION_UP): 0:(627.41315,31.528563)
+:Sending Touch (ACTION_DOWN): 0:(525.0,1094.0)
+:Sending Touch (ACTION_UP): 0:(526.3865,1094.3843)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(437.0,251.0)
+:Sending Touch (ACTION_UP): 0:(566.2202,249.1504)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(316.0,506.0)
+:Sending Touch (ACTION_UP): 0:(305.12802,500.50113)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(562.0,899.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_UP): 0:(505.99673,890.1356)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(89.0,314.0)
+    //[calendar_time:2014-12-02 11:21:00.402  system_uptime:14080362]
+    // Sending event #2900
+:Sending Touch (ACTION_UP): 0:(54.976856,400.59302)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(556.0,338.0)
+:Sending Touch (ACTION_UP): 0:(543.22095,387.3803)
+:Sending Touch (ACTION_DOWN): 0:(82.0,229.0)
+:Sending Touch (ACTION_UP): 0:(82.35464,237.7585)
+:Sending Touch (ACTION_DOWN): 0:(622.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(633.8956,1147.9594)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(396.0,800.0)
+:Sending Touch (ACTION_UP): 0:(362.82626,762.0191)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(570.0,110.0)
+:Sending Touch (ACTION_UP): 0:(571.2231,119.31169)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(549.0,967.0)
+:Sending Touch (ACTION_UP): 0:(551.7105,953.8081)
+:Sending Touch (ACTION_DOWN): 0:(279.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(344.53717,1130.9148)
+:Sending Touch (ACTION_DOWN): 0:(266.0,104.0)
+:Sending Touch (ACTION_UP): 0:(262.57547,95.29825)
+:Sending Touch (ACTION_DOWN): 0:(341.0,230.0)
+:Sending Touch (ACTION_UP): 0:(347.5961,229.369)
+:Sending Touch (ACTION_DOWN): 0:(349.0,995.0)
+    //[calendar_time:2014-12-02 11:21:02.323  system_uptime:14082283]
+    // Sending event #3000
+:Sending Touch (ACTION_UP): 0:(304.2862,1007.5089)
+:Sending Touch (ACTION_DOWN): 0:(495.0,875.0)
+:Sending Touch (ACTION_UP): 0:(494.20795,870.59503)
+:Sending Touch (ACTION_DOWN): 0:(248.0,120.0)
+:Sending Touch (ACTION_UP): 0:(258.51788,122.921974)
+:Sending Touch (ACTION_DOWN): 0:(684.0,452.0)
+:Sending Touch (ACTION_UP): 0:(681.73865,469.43118)
+:Sending Touch (ACTION_DOWN): 0:(167.0,508.0)
+:Sending Touch (ACTION_UP): 0:(167.2623,512.99396)
+:Sending Touch (ACTION_DOWN): 0:(459.0,1132.0)
+:Sending Touch (ACTION_UP): 0:(458.76746,1151.2435)
+:Sending Touch (ACTION_DOWN): 0:(383.0,952.0)
+:Sending Touch (ACTION_UP): 0:(413.53217,933.2194)
+:Sending Touch (ACTION_DOWN): 0:(276.0,272.0)
+:Sending Touch (ACTION_UP): 0:(293.90375,272.05234)
+:Sending Touch (ACTION_DOWN): 0:(92.0,516.0)
+:Sending Touch (ACTION_UP): 0:(107.536545,496.82645)
+:Sending Touch (ACTION_DOWN): 0:(440.0,764.0)
+:Sending Touch (ACTION_UP): 0:(342.78915,767.4605)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(83.0,453.0)
+:Sending Touch (ACTION_UP): 0:(84.23264,452.57483)
+:Sending Touch (ACTION_DOWN): 0:(470.0,54.0)
+:Sending Touch (ACTION_UP): 0:(462.62677,49.2994)
+    //[calendar_time:2014-12-02 11:21:03.656  system_uptime:14083616]
+    // Sending event #3100
+:Sending Touch (ACTION_DOWN): 0:(110.0,83.0)
+:Sending Touch (ACTION_UP): 0:(194.67888,157.14876)
+:Sending Touch (ACTION_DOWN): 0:(352.0,1087.0)
+:Sending Touch (ACTION_UP): 0:(350.3841,1096.8245)
+:Sending Touch (ACTION_DOWN): 0:(89.0,25.0)
+:Sending Touch (ACTION_UP): 0:(101.94723,19.740866)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(167.0,263.0)
+:Sending Touch (ACTION_UP): 0:(171.70874,263.6038)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(109.0,130.0)
+:Sending Touch (ACTION_UP): 0:(148.14781,100.45614)
+:Sending Touch (ACTION_DOWN): 0:(343.0,59.0)
+:Sending Touch (ACTION_UP): 0:(329.5912,66.674355)
+:Sending Touch (ACTION_DOWN): 0:(127.0,693.0)
+:Sending Touch (ACTION_UP): 0:(130.92946,692.52606)
+    // Rejecting start of Intent { act=android.intent.action.QUICK_CLOCK cmp=com.android.settings/.Settings$DateTimeSettingsActivity } in package com.android.settings
+    // Rejecting start of Intent { act=android.intent.action.QUICK_CLOCK cmp=com.android.settings/.Settings$DateTimeSettingsActivity } in package com.android.settings
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(98.0,882.0)
+:Sending Touch (ACTION_UP): 0:(20.442318,968.95483)
+:Sending Touch (ACTION_DOWN): 0:(210.0,439.0)
+    //[calendar_time:2014-12-02 11:21:04.527  system_uptime:14084487]
+    // Sending event #3200
+:Sending Touch (ACTION_UP): 0:(202.13893,474.73505)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(451.0,212.0)
+:Sending Touch (ACTION_UP): 0:(419.41437,180.46649)
+:Sending Touch (ACTION_DOWN): 0:(165.0,669.0)
+:Sending Touch (ACTION_UP): 0:(177.0651,683.81006)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(81.0,405.0)
+:Sending Touch (ACTION_UP): 0:(83.37705,407.24133)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,2.0)
+    //[calendar_time:2014-12-02 11:21:05.168  system_uptime:14085128]
+    // Sending event #3300
+    //[calendar_time:2014-12-02 11:21:05.169  system_uptime:14085129]
+    // Sending event #3300
+:Sending Touch (ACTION_DOWN): 0:(629.0,561.0)
+:Sending Touch (ACTION_UP): 0:(618.0035,561.785)
+:Sending Touch (ACTION_DOWN): 0:(304.0,1002.0)
+:Sending Touch (ACTION_UP): 0:(334.8657,919.17426)
+:Sending Touch (ACTION_DOWN): 0:(134.0,690.0)
+:Sending Touch (ACTION_UP): 0:(153.72977,650.8059)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(422.0,415.0)
+:Sending Touch (ACTION_UP): 0:(376.4605,389.95978)
+:Sending Touch (ACTION_DOWN): 0:(697.0,1043.0)
+:Sending Touch (ACTION_UP): 0:(709.88794,1059.0913)
+:Sending Touch (ACTION_DOWN): 0:(153.0,893.0)
+:Sending Touch (ACTION_UP): 0:(144.35121,895.3017)
+:Sending Touch (ACTION_DOWN): 0:(175.0,1039.0)
+:Sending Touch (ACTION_UP): 0:(167.22746,1038.9882)
+:Sending Touch (ACTION_DOWN): 0:(256.0,956.0)
+:Sending Touch (ACTION_UP): 0:(269.13455,954.49426)
+:Sending Touch (ACTION_DOWN): 0:(299.0,246.0)
+:Sending Touch (ACTION_UP): 0:(285.64172,231.042)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(47.0,841.0)
+:Sending Touch (ACTION_UP): 0:(107.097786,842.7757)
+:Sending Touch (ACTION_DOWN): 0:(577.0,739.0)
+:Sending Touch (ACTION_UP): 0:(526.4437,733.07684)
+:Sending Touch (ACTION_DOWN): 0:(187.0,942.0)
+    //[calendar_time:2014-12-02 11:21:05.655  system_uptime:14085615]
+    // Sending event #3400
+:Sending Touch (ACTION_UP): 0:(178.27057,951.40704)
+:Sending Touch (ACTION_DOWN): 0:(88.0,438.0)
+:Sending Touch (ACTION_UP): 0:(114.83308,410.4411)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(521.0,464.0)
+:Sending Touch (ACTION_UP): 0:(519.83905,474.77124)
+:Sending Touch (ACTION_DOWN): 0:(183.0,43.0)
+:Sending Touch (ACTION_UP): 0:(182.45216,41.408283)
+:Sending Touch (ACTION_DOWN): 0:(615.0,175.0)
+:Sending Touch (ACTION_UP): 0:(611.20404,206.80995)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(453.0,381.0)
+:Sending Touch (ACTION_UP): 0:(452.62943,370.02792)
+:Sending Touch (ACTION_DOWN): 0:(648.0,362.0)
+:Sending Touch (ACTION_UP): 0:(706.25684,340.85422)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(116.0,471.0)
+:Sending Touch (ACTION_UP): 0:(64.06794,417.01978)
+    //[calendar_time:2014-12-02 11:21:05.824  system_uptime:14085784]
+    // Sending event #3500
+    //[calendar_time:2014-12-02 11:21:05.824  system_uptime:14085785]
+    // Sending event #3500
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(396.0,711.0)
+:Sending Touch (ACTION_UP): 0:(383.76984,722.1413)
+:Sending Touch (ACTION_DOWN): 0:(95.0,1038.0)
+:Sending Touch (ACTION_UP): 0:(86.05519,1025.7766)
+:Sending Touch (ACTION_DOWN): 0:(594.0,991.0)
+:Sending Touch (ACTION_UP): 0:(610.7178,981.4045)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(550.0,71.0)
+:Sending Touch (ACTION_UP): 0:(537.5608,82.64315)
+:Sending Touch (ACTION_DOWN): 0:(8.0,228.0)
+:Sending Touch (ACTION_UP): 0:(0.4160862,238.2228)
+:Sending Touch (ACTION_DOWN): 0:(484.0,117.0)
+:Sending Touch (ACTION_UP): 0:(476.1802,128.29088)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(1.0,493.0)
+:Sending Touch (ACTION_UP): 0:(116.842445,490.89005)
+:Sending Touch (ACTION_DOWN): 0:(114.0,325.0)
+:Sending Touch (ACTION_UP): 0:(113.9646,344.14438)
+    //[calendar_time:2014-12-02 11:21:06.351  system_uptime:14086311]
+    // Sending event #3600
+:Sending Touch (ACTION_DOWN): 0:(658.0,835.0)
+:Sending Touch (ACTION_UP): 0:(651.75024,819.7547)
+:Sending Touch (ACTION_DOWN): 0:(499.0,167.0)
+:Sending Touch (ACTION_UP): 0:(482.6484,168.16566)
+:Sending Touch (ACTION_DOWN): 0:(231.0,433.0)
+:Sending Touch (ACTION_UP): 0:(252.16039,418.46786)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(488.0,1139.0)
+:Sending Touch (ACTION_UP): 0:(545.0446,1043.7792)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(263.0,844.0)
+:Sending Touch (ACTION_UP): 0:(250.06927,844.9059)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    //[calendar_time:2014-12-02 11:21:07.410  system_uptime:14087370]
+    // Sending event #3700
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(300.0,198.0)
+:Sending Touch (ACTION_UP): 0:(304.62057,192.99709)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(305.0,51.0)
+:Sending Touch (ACTION_UP): 0:(283.79425,75.10924)
+:Sending Touch (ACTION_DOWN): 0:(117.0,385.0)
+:Sending Touch (ACTION_UP): 0:(123.63406,381.58685)
+:Sending Touch (ACTION_DOWN): 0:(51.0,484.0)
+:Sending Touch (ACTION_UP): 0:(89.56257,470.6526)
+:Sending Touch (ACTION_DOWN): 0:(132.0,857.0)
+:Sending Touch (ACTION_UP): 0:(128.0915,853.5879)
+:Sending Touch (ACTION_DOWN): 0:(188.0,34.0)
+:Sending Touch (ACTION_UP): 0:(224.36948,48.962322)
+:Sending Touch (ACTION_DOWN): 0:(333.0,936.0)
+:Sending Touch (ACTION_UP): 0:(332.61166,941.5567)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(593.0,248.0)
+:Sending Touch (ACTION_UP): 0:(590.8842,255.44444)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(417.0,417.0)
+:Sending Touch (ACTION_UP): 0:(428.05472,416.83643)
+:Sending Touch (ACTION_DOWN): 0:(35.0,1054.0)
+:Sending Touch (ACTION_UP): 0:(31.6687,1066.8115)
+:Sending Touch (ACTION_DOWN): 0:(384.0,964.0)
+:Sending Touch (ACTION_UP): 0:(377.40924,984.53546)
+:Sending Touch (ACTION_DOWN): 0:(429.0,935.0)
+:Sending Touch (ACTION_UP): 0:(414.1179,923.13403)
+:Sending Touch (ACTION_DOWN): 0:(50.0,1094.0)
+    //[calendar_time:2014-12-02 11:21:08.182  system_uptime:14088142]
+    // Sending event #3800
+:Sending Touch (ACTION_UP): 0:(66.50044,1056.4604)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,844.0)
+:Sending Touch (ACTION_UP): 0:(576.0348,928.95166)
+:Sending Touch (ACTION_DOWN): 0:(192.0,847.0)
+:Sending Touch (ACTION_UP): 0:(200.61679,856.5088)
+:Sending Touch (ACTION_DOWN): 0:(283.0,25.0)
+:Sending Touch (ACTION_UP): 0:(266.85294,108.33414)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(707.0,432.0)
+:Sending Touch (ACTION_UP): 0:(688.7313,413.8401)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+    //[calendar_time:2014-12-02 11:21:08.894  system_uptime:14088855]
+    // Sending event #3900
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(127.0,543.0)
+:Sending Touch (ACTION_UP): 0:(141.03339,523.68414)
+:Sending Touch (ACTION_DOWN): 0:(492.0,253.0)
+:Sending Touch (ACTION_UP): 0:(500.58105,251.61583)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(340.0,825.0)
+:Sending Touch (ACTION_UP): 0:(358.4646,807.32654)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.google.android.music/com.android.music.activitymanagement.TopLevelActivity } in package com.google.android.music
+:Sending Touch (ACTION_DOWN): 0:(166.0,306.0)
+:Sending Touch (ACTION_UP): 0:(174.50845,302.77783)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(28.0,696.0)
+    //[calendar_time:2014-12-02 11:21:09.316  system_uptime:14089276]
+    // Sending event #4000
+:Sending Touch (ACTION_UP): 0:(0.1006093,673.68976)
+:Sending Touch (ACTION_DOWN): 0:(193.0,197.0)
+:Sending Touch (ACTION_UP): 0:(288.1766,238.69855)
+:Sending Touch (ACTION_DOWN): 0:(325.0,421.0)
+:Sending Touch (ACTION_UP): 0:(302.26996,450.55518)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(249.0,289.0)
+:Sending Touch (ACTION_UP): 0:(290.3318,262.71283)
+:Sending Touch (ACTION_DOWN): 0:(137.0,423.0)
+:Sending Touch (ACTION_UP): 0:(111.58148,417.64597)
+:Sending Touch (ACTION_DOWN): 0:(87.0,479.0)
+:Sending Touch (ACTION_UP): 0:(74.80822,484.58014)
+:Sending Touch (ACTION_DOWN): 0:(49.0,732.0)
+:Sending Touch (ACTION_UP): 0:(52.95141,723.8829)
+:Sending Touch (ACTION_DOWN): 0:(695.0,768.0)
+:Sending Touch (ACTION_UP): 0:(686.06036,765.79443)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(260.0,283.0)
+:Sending Touch (ACTION_UP): 0:(273.13318,267.17648)
+:Sending Touch (ACTION_DOWN): 0:(683.0,726.0)
+:Sending Touch (ACTION_UP): 0:(693.60266,741.54266)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(46.0,100.0)
+    //[calendar_time:2014-12-02 11:21:09.864  system_uptime:14089824]
+    // Sending event #4100
+:Sending Touch (ACTION_UP): 0:(4.065706,107.98353)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(454.0,838.0)
+:Sending Touch (ACTION_UP): 0:(463.86383,844.3077)
+:Sending Touch (ACTION_DOWN): 0:(126.0,485.0)
+:Sending Touch (ACTION_UP): 0:(66.41336,462.5068)
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(337.0,490.0)
+:Sending Touch (ACTION_UP): 0:(336.66248,485.1007)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(402.0,316.0)
+:Sending Touch (ACTION_UP): 0:(406.5607,309.594)
+:Sending Touch (ACTION_DOWN): 0:(37.0,1109.0)
+:Sending Touch (ACTION_UP): 0:(24.600342,1108.6515)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    // activityResuming(com.soagrowers.android.tripcomputer)
+:Sending Touch (ACTION_DOWN): 0:(486.0,674.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_UP): 0:(487.78134,680.45074)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=android/com.android.internal.app.ResolverActivity } in package android
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(343.0,395.0)
+:Sending Touch (ACTION_UP): 0:(339.24664,390.1776)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,0.0)
+    //[calendar_time:2014-12-02 11:21:11.462  system_uptime:14091422]
+    // Sending event #4200
+:Sending Touch (ACTION_DOWN): 0:(345.0,197.0)
+:Sending Touch (ACTION_UP): 0:(257.46848,280.6594)
+:Sending Touch (ACTION_DOWN): 0:(367.0,54.0)
+:Sending Touch (ACTION_UP): 0:(367.69162,33.051357)
+:Sending Touch (ACTION_DOWN): 0:(78.0,583.0)
+:Sending Touch (ACTION_UP): 0:(87.0211,582.83136)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+:Sending Touch (ACTION_DOWN): 0:(244.0,534.0)
+:Sending Touch (ACTION_UP): 0:(251.23378,536.71533)
+:Sending Touch (ACTION_DOWN): 0:(604.0,185.0)
+:Sending Touch (ACTION_UP): 0:(618.57184,174.01878)
+:Sending Touch (ACTION_DOWN): 0:(323.0,526.0)
+:Sending Touch (ACTION_UP): 0:(319.60773,540.1104)
+:Sending Touch (ACTION_DOWN): 0:(320.0,958.0)
+:Sending Touch (ACTION_UP): 0:(314.44943,968.9919)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(471.0,285.0)
+:Sending Touch (ACTION_UP): 0:(464.67847,258.25726)
+:Sending Touch (ACTION_DOWN): 0:(292.0,289.0)
+:Sending Touch (ACTION_UP): 0:(299.16547,303.82883)
+    //[calendar_time:2014-12-02 11:21:12.756  system_uptime:14092716]
+    // Sending event #4300
+    //[calendar_time:2014-12-02 11:21:12.757  system_uptime:14092717]
+    // Sending event #4300
+:Sending Touch (ACTION_DOWN): 0:(687.0,296.0)
+:Sending Touch (ACTION_UP): 0:(690.5348,301.4342)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(474.0,812.0)
+:Sending Touch (ACTION_UP): 0:(466.44577,913.194)
+:Sending Touch (ACTION_DOWN): 0:(389.0,98.0)
+:Sending Touch (ACTION_UP): 0:(424.1389,56.221436)
+:Sending Touch (ACTION_DOWN): 0:(517.0,88.0)
+:Sending Touch (ACTION_UP): 0:(520.60626,89.57815)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(387.0,281.0)
+:Sending Touch (ACTION_UP): 0:(412.75702,392.24442)
+:Sending Touch (ACTION_DOWN): 0:(510.0,970.0)
+:Sending Touch (ACTION_UP): 0:(510.59436,968.8556)
+:Sending Touch (ACTION_DOWN): 0:(108.0,675.0)
+:Sending Touch (ACTION_UP): 0:(104.953575,672.40894)
+:Sending Touch (ACTION_DOWN): 0:(255.0,556.0)
+:Sending Touch (ACTION_UP): 0:(307.03455,520.29614)
+:Sending Touch (ACTION_DOWN): 0:(402.0,724.0)
+:Sending Touch (ACTION_UP): 0:(406.11295,725.7546)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.settings/.DevelopmentSettings } in package com.android.settings
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(704.0,257.0)
+:Sending Touch (ACTION_UP): 0:(713.2057,258.0605)
+:Sending Touch (ACTION_DOWN): 0:(238.0,264.0)
+    //[calendar_time:2014-12-02 11:21:13.630  system_uptime:14093590]
+    // Sending event #4400
+:Sending Touch (ACTION_UP): 0:(208.80263,385.02066)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(598.0,1.0)
+:Sending Touch (ACTION_UP): 0:(599.7225,0.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(374.0,490.0)
+:Sending Touch (ACTION_UP): 0:(391.55048,490.96927)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(638.0,95.0)
+:Sending Touch (ACTION_UP): 0:(630.45233,93.211105)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2014-12-02 11:21:14.530  system_uptime:14094490]
+    // Sending event #4500
+    //[calendar_time:2014-12-02 11:21:14.530  system_uptime:14094490]
+    // Sending event #4500
+:Sending Touch (ACTION_DOWN): 0:(168.0,621.0)
+:Sending Touch (ACTION_UP): 0:(162.8836,629.51294)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(60.0,705.0)
+:Sending Touch (ACTION_UP): 0:(0.0,647.8869)
+:Sending Touch (ACTION_DOWN): 0:(545.0,318.0)
+:Sending Touch (ACTION_UP): 0:(528.829,316.98584)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(114.0,240.0)
+:Sending Touch (ACTION_UP): 0:(112.01344,249.47626)
+:Sending Touch (ACTION_DOWN): 0:(288.0,845.0)
+:Sending Touch (ACTION_UP): 0:(241.32652,894.13794)
+:Sending Touch (ACTION_DOWN): 0:(678.0,482.0)
+:Sending Touch (ACTION_UP): 0:(677.6739,490.31662)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(512.0,161.0)
+:Sending Touch (ACTION_UP): 0:(520.03,167.94394)
+:Sending Touch (ACTION_DOWN): 0:(498.0,566.0)
+:Sending Touch (ACTION_UP): 0:(525.1018,546.02277)
+:Sending Touch (ACTION_DOWN): 0:(658.0,391.0)
+:Sending Touch (ACTION_UP): 0:(660.2283,388.58475)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+    //[calendar_time:2014-12-02 11:21:15.574  system_uptime:14095534]
+    // Sending event #4600
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(309.0,532.0)
+:Sending Touch (ACTION_UP): 0:(332.78528,554.8748)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(229.0,811.0)
+:Sending Touch (ACTION_UP): 0:(183.30072,877.2112)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    //[calendar_time:2014-12-02 11:21:16.321  system_uptime:14096281]
+    // Sending event #4700
+    //[calendar_time:2014-12-02 11:21:16.322  system_uptime:14096282]
+    // Sending event #4700
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(279.0,655.0)
+:Sending Touch (ACTION_UP): 0:(204.34164,673.5293)
+:Sending Touch (ACTION_DOWN): 0:(509.0,303.0)
+:Sending Touch (ACTION_UP): 0:(490.94785,229.3407)
+:Sending Touch (ACTION_DOWN): 0:(699.0,1077.0)
+:Sending Touch (ACTION_UP): 0:(708.2079,1079.3916)
+:Sending Touch (ACTION_DOWN): 0:(321.0,681.0)
+:Sending Touch (ACTION_UP): 0:(396.68243,689.3805)
+:Sending Touch (ACTION_DOWN): 0:(664.0,241.0)
+:Sending Touch (ACTION_UP): 0:(720.0,255.73804)
+:Sending Touch (ACTION_DOWN): 0:(631.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(625.76306,1008.0083)
+:Sending Touch (ACTION_DOWN): 0:(606.0,236.0)
+:Sending Touch (ACTION_UP): 0:(593.3791,295.11737)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(628.0,13.0)
+:Sending Touch (ACTION_UP): 0:(630.7838,13.357699)
+:Sending Touch (ACTION_DOWN): 0:(487.0,587.0)
+:Sending Touch (ACTION_UP): 0:(475.3083,643.91235)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+    //[calendar_time:2014-12-02 11:21:16.707  system_uptime:14096667]
+    // Sending event #4800
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://play.google.com/store/apps/details?id=com.soagrowers.android.tripcomputer cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Touch (ACTION_DOWN): 0:(713.0,476.0)
+:Sending Touch (ACTION_UP): 0:(619.5013,574.2173)
+:Sending Touch (ACTION_DOWN): 0:(366.0,434.0)
+:Sending Touch (ACTION_UP): 0:(392.97464,440.3539)
+:Sending Touch (ACTION_DOWN): 0:(139.0,115.0)
+:Sending Touch (ACTION_UP): 0:(133.08926,91.24013)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(126.0,630.0)
+:Sending Touch (ACTION_UP): 0:(41.948227,648.5191)
+:Sending Touch (ACTION_DOWN): 0:(624.0,809.0)
+:Sending Touch (ACTION_UP): 0:(627.2705,810.3602)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(587.0,984.0)
+:Sending Touch (ACTION_UP): 0:(580.5753,978.38025)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(102.0,245.0)
+:Sending Touch (ACTION_UP): 0:(101.45442,259.8653)
+:Sending Touch (ACTION_DOWN): 0:(241.0,208.0)
+    //[calendar_time:2014-12-02 11:21:17.498  system_uptime:14097459]
+    // Sending event #4900
+:Sending Touch (ACTION_UP): 0:(328.86514,181.4189)
+:Sending Touch (ACTION_DOWN): 0:(192.0,876.0)
+:Sending Touch (ACTION_UP): 0:(211.17406,876.0126)
+:Sending Touch (ACTION_DOWN): 0:(624.0,311.0)
+:Sending Touch (ACTION_UP): 0:(632.4322,310.6919)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(574.0,6.0)
+:Sending Touch (ACTION_UP): 0:(584.244,0.0)
+:Sending Touch (ACTION_DOWN): 0:(206.0,422.0)
+:Sending Touch (ACTION_UP): 0:(192.66104,419.45016)
+:Sending Touch (ACTION_DOWN): 0:(624.0,378.0)
+:Sending Touch (ACTION_UP): 0:(558.3292,385.27335)
+:Sending Touch (ACTION_DOWN): 0:(392.0,768.0)
+:Sending Touch (ACTION_UP): 0:(403.02902,768.05493)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+    //[calendar_time:2014-12-02 11:21:18.205  system_uptime:14098165]
+    // Sending event #5000
+:Sending Touch (ACTION_DOWN): 0:(327.0,665.0)
+:Sending Touch (ACTION_UP): 0:(328.36884,663.1458)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(395.0,956.0)
+:Sending Touch (ACTION_UP): 0:(374.88815,959.40204)
+:Sending Touch (ACTION_DOWN): 0:(457.0,20.0)
+:Sending Touch (ACTION_UP): 0:(463.272,20.526741)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(423.0,1097.0)
+:Sending Touch (ACTION_UP): 0:(474.2544,1093.0934)
+:Sending Touch (ACTION_DOWN): 0:(593.0,778.0)
+:Sending Touch (ACTION_UP): 0:(592.95746,797.12103)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(486.24973,1035.8018)
+:Sending Touch (ACTION_DOWN): 0:(49.0,187.0)
+:Sending Touch (ACTION_UP): 0:(55.281887,167.83557)
+    //[calendar_time:2014-12-02 11:21:19.667  system_uptime:14099628]
+    // Sending event #5100
+    //[calendar_time:2014-12-02 11:21:19.668  system_uptime:14099628]
+    // Sending event #5100
+:Sending Touch (ACTION_DOWN): 0:(625.0,860.0)
+:Sending Touch (ACTION_UP): 0:(627.5979,866.5997)
+:Sending Touch (ACTION_DOWN): 0:(389.0,524.0)
+:Sending Touch (ACTION_UP): 0:(393.63608,525.492)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(8.0,124.0)
+:Sending Touch (ACTION_UP): 0:(3.234755,132.29634)
+:Sending Touch (ACTION_DOWN): 0:(415.0,778.0)
+:Sending Touch (ACTION_UP): 0:(414.67874,777.2332)
+:Sending Touch (ACTION_DOWN): 0:(334.0,452.0)
+:Sending Touch (ACTION_UP): 0:(335.08856,452.1661)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(465.0,517.0)
+:Sending Touch (ACTION_UP): 0:(486.33966,525.0055)
+:Sending Touch (ACTION_DOWN): 0:(582.0,77.0)
+:Sending Touch (ACTION_UP): 0:(581.97125,79.303)
+:Sending Touch (ACTION_DOWN): 0:(681.0,414.0)
+:Sending Touch (ACTION_UP): 0:(669.55383,432.97955)
+:Sending Touch (ACTION_DOWN): 0:(131.0,638.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_UP): 0:(113.35542,727.9368)
+:Sending Touch (ACTION_DOWN): 0:(432.0,472.0)
+:Sending Touch (ACTION_UP): 0:(490.70496,573.17065)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+    //[calendar_time:2014-12-02 11:21:20.218  system_uptime:14100179]
+    // Sending event #5200
+:Sending Touch (ACTION_DOWN): 0:(144.0,35.0)
+:Sending Touch (ACTION_UP): 0:(317.7044,54.048878)
+:Sending Touch (ACTION_DOWN): 0:(49.0,1012.0)
+:Sending Touch (ACTION_UP): 0:(114.46474,920.67737)
+:Sending Touch (ACTION_DOWN): 0:(664.0,703.0)
+:Sending Touch (ACTION_UP): 0:(663.82214,712.00507)
+:Sending Touch (ACTION_DOWN): 0:(529.0,88.0)
+:Sending Touch (ACTION_UP): 0:(521.66376,89.27221)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(378.0,892.0)
+:Sending Touch (ACTION_UP): 0:(364.37146,891.6901)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(112.0,245.0)
+:Sending Touch (ACTION_UP): 0:(111.34517,253.73741)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(499.0,94.0)
+:Sending Touch (ACTION_UP): 0:(493.5359,89.777534)
+:Sending Touch (ACTION_DOWN): 0:(658.0,203.0)
+:Sending Touch (ACTION_UP): 0:(657.52515,212.62994)
+:Sending Touch (ACTION_DOWN): 0:(226.0,29.0)
+:Sending Touch (ACTION_UP): 0:(225.73581,25.084072)
+:Sending Touch (ACTION_DOWN): 0:(12.0,506.0)
+:Sending Touch (ACTION_UP): 0:(6.8283963,494.8069)
+    // Rejecting start of Intent { act=android.intent.action.QUICK_CLOCK cmp=com.android.settings/.Settings$DateTimeSettingsActivity } in package com.android.settings
+    //[calendar_time:2014-12-02 11:21:20.469  system_uptime:14100429]
+    // Sending event #5300
+    //[calendar_time:2014-12-02 11:21:20.470  system_uptime:14100430]
+    // Sending event #5300
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(233.0,601.0)
+:Sending Touch (ACTION_UP): 0:(231.93607,599.6579)
+:Sending Touch (ACTION_DOWN): 0:(408.0,643.0)
+:Sending Touch (ACTION_UP): 0:(420.7113,648.04395)
+:Sending Touch (ACTION_DOWN): 0:(689.0,530.0)
+:Sending Touch (ACTION_UP): 0:(683.2774,539.7348)
+:Sending Touch (ACTION_DOWN): 0:(171.0,693.0)
+:Sending Touch (ACTION_UP): 0:(174.88503,678.26416)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+:Sending Touch (ACTION_DOWN): 0:(263.0,360.0)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_UP): 0:(178.27966,310.62234)
+:Sending Touch (ACTION_DOWN): 0:(183.0,508.0)
+:Sending Touch (ACTION_UP): 0:(187.611,499.08978)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(499.0,739.0)
+:Sending Touch (ACTION_UP): 0:(502.48764,750.38617)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+    //[calendar_time:2014-12-02 11:21:21.903  system_uptime:14101863]
+    // Sending event #5400
+:Sending Touch (ACTION_DOWN): 0:(380.0,94.0)
+:Sending Touch (ACTION_UP): 0:(379.1497,95.62439)
+:Sending Touch (ACTION_DOWN): 0:(412.0,788.0)
+:Sending Touch (ACTION_UP): 0:(346.96533,743.3644)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(234.0,575.0)
+:Sending Touch (ACTION_UP): 0:(235.30984,574.87305)
+:Sending Touch (ACTION_DOWN): 0:(342.0,1180.0)
+:Sending Touch (ACTION_UP): 0:(337.2115,1179.9281)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(487.0,1152.0)
+:Sending Touch (ACTION_UP): 0:(439.69983,1141.0845)
+:Sending Touch (ACTION_DOWN): 0:(263.0,1143.0)
+:Sending Touch (ACTION_UP): 0:(272.33978,1177.0929)
+:Sending Touch (ACTION_DOWN): 0:(248.0,401.0)
+:Sending Touch (ACTION_UP): 0:(197.39012,396.35538)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    //[calendar_time:2014-12-02 11:21:23.374  system_uptime:14103334]
+    // Sending event #5500
+    //[calendar_time:2014-12-02 11:21:23.375  system_uptime:14103335]
+    // Sending event #5500
+:Sending Touch (ACTION_DOWN): 0:(403.0,34.0)
+:Sending Touch (ACTION_UP): 0:(411.65936,40.938293)
+:Sending Touch (ACTION_DOWN): 0:(177.0,354.0)
+:Sending Touch (ACTION_UP): 0:(177.81932,359.90485)
+:Sending Touch (ACTION_DOWN): 0:(30.0,1030.0)
+:Sending Touch (ACTION_UP): 0:(31.772757,1046.49)
+:Sending Touch (ACTION_DOWN): 0:(459.0,32.0)
+:Sending Touch (ACTION_UP): 0:(457.92755,41.400417)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(654.0,662.0)
+:Sending Touch (ACTION_UP): 0:(664.4197,670.8829)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    //[calendar_time:2014-12-02 11:21:24.369  system_uptime:14104329]
+    // Sending event #5600
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(251.0,420.0)
+:Sending Touch (ACTION_UP): 0:(250.97769,410.09485)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+    //[calendar_time:2014-12-02 11:21:24.941  system_uptime:14104901]
+    // Sending event #5700
+:Sending Touch (ACTION_DOWN): 0:(446.0,77.0)
+:Sending Touch (ACTION_UP): 0:(436.5649,65.76173)
+:Sending Touch (ACTION_DOWN): 0:(63.0,364.0)
+:Sending Touch (ACTION_UP): 0:(85.53444,379.61746)
+:Sending Touch (ACTION_DOWN): 0:(186.0,94.0)
+:Sending Touch (ACTION_UP): 0:(306.81482,183.23624)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(496.0,69.0)
+:Sending Touch (ACTION_UP): 0:(454.273,26.936556)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+    //[calendar_time:2014-12-02 11:21:25.403  system_uptime:14105363]
+    // Sending event #5800
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(437.0,1161.0)
+:Sending Touch (ACTION_UP): 0:(474.22873,1184.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(161.0,631.0)
+:Sending Touch (ACTION_UP): 0:(164.7398,633.95135)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(245.0,1076.0)
+:Sending Touch (ACTION_UP): 0:(259.03024,991.67645)
+:Sending Touch (ACTION_DOWN): 0:(299.0,427.0)
+:Sending Touch (ACTION_UP): 0:(306.8596,442.3567)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(674.0,282.0)
+:Sending Touch (ACTION_UP): 0:(720.0,226.6367)
+:Sending Touch (ACTION_DOWN): 0:(49.0,662.0)
+:Sending Touch (ACTION_UP): 0:(47.393497,662.8038)
+:Sending Touch (ACTION_DOWN): 0:(491.0,590.0)
+:Sending Touch (ACTION_UP): 0:(440.58,629.17334)
+:Sending Touch (ACTION_DOWN): 0:(601.0,810.0)
+:Sending Touch (ACTION_UP): 0:(611.3577,808.19244)
+:Sending Touch (ACTION_DOWN): 0:(658.0,487.0)
+:Sending Touch (ACTION_UP): 0:(684.94446,491.9961)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+    //[calendar_time:2014-12-02 11:21:25.711  system_uptime:14105671]
+    // Sending event #5900
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(201.0,145.0)
+:Sending Touch (ACTION_UP): 0:(244.11316,66.635666)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(159.0,16.0)
+:Sending Touch (ACTION_UP): 0:(54.746483,10.150588)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+    //[calendar_time:2014-12-02 11:21:26.370  system_uptime:14106330]
+    // Sending event #6000
+:Sending Touch (ACTION_DOWN): 0:(465.0,1092.0)
+:Sending Touch (ACTION_UP): 0:(465.22943,1100.0762)
+:Sending Touch (ACTION_DOWN): 0:(283.0,165.0)
+:Sending Touch (ACTION_UP): 0:(285.98566,168.13766)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(508.0,552.0)
+:Sending Touch (ACTION_UP): 0:(522.1148,545.52344)
+:Sending Touch (ACTION_DOWN): 0:(435.0,590.0)
+:Sending Touch (ACTION_UP): 0:(427.1343,589.93445)
+:Sending Touch (ACTION_DOWN): 0:(417.0,943.0)
+:Sending Touch (ACTION_UP): 0:(403.04422,962.88635)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(262.0,465.0)
+:Sending Touch (ACTION_UP): 0:(241.96927,463.11908)
+:Sending Touch (ACTION_DOWN): 0:(583.0,342.0)
+:Sending Touch (ACTION_UP): 0:(526.41644,289.7163)
+:Sending Touch (ACTION_DOWN): 0:(5.0,1156.0)
+:Sending Touch (ACTION_UP): 0:(0.0,1145.7393)
+:Sending Touch (ACTION_DOWN): 0:(63.0,132.0)
+:Sending Touch (ACTION_UP): 0:(98.785904,159.16476)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-2.0)
+    //[calendar_time:2014-12-02 11:21:26.674  system_uptime:14106635]
+    // Sending event #6100
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(414.0,597.0)
+:Sending Touch (ACTION_UP): 0:(447.149,633.93317)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(234.0,941.0)
+:Sending Touch (ACTION_UP): 0:(237.06346,941.0311)
+:Sending Touch (ACTION_DOWN): 0:(340.0,207.0)
+:Sending Touch (ACTION_UP): 0:(245.02106,274.78812)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,1.0)
+    //[calendar_time:2014-12-02 11:21:27.584  system_uptime:14107545]
+    // Sending event #6200
+    //[calendar_time:2014-12-02 11:21:27.585  system_uptime:14107545]
+    // Sending event #6200
+:Sending Touch (ACTION_DOWN): 0:(300.0,199.0)
+:Sending Touch (ACTION_UP): 0:(299.96292,213.26227)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(699.0,387.0)
+:Sending Touch (ACTION_UP): 0:(714.14246,364.64786)
+:Sending Touch (ACTION_DOWN): 0:(154.0,799.0)
+:Sending Touch (ACTION_UP): 0:(145.61017,794.41766)
+:Sending Touch (ACTION_DOWN): 0:(662.0,568.0)
+:Sending Touch (ACTION_UP): 0:(658.5648,564.1352)
+:Sending Touch (ACTION_DOWN): 0:(183.0,370.0)
+:Sending Touch (ACTION_UP): 0:(183.79645,352.86432)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(607.0,628.0)
+:Sending Touch (ACTION_UP): 0:(668.3509,608.0585)
+:Sending Touch (ACTION_DOWN): 0:(143.0,1077.0)
+:Sending Touch (ACTION_UP): 0:(206.48302,1053.2981)
+:Sending Touch (ACTION_DOWN): 0:(447.0,579.0)
+:Sending Touch (ACTION_UP): 0:(450.21808,580.63336)
+:Sending Touch (ACTION_DOWN): 0:(278.0,458.0)
+:Sending Touch (ACTION_UP): 0:(273.60043,454.38223)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(240.0,293.0)
+:Sending Touch (ACTION_UP): 0:(224.89534,292.21667)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    //[calendar_time:2014-12-02 11:21:28.184  system_uptime:14108144]
+    // Sending event #6300
+    //[calendar_time:2014-12-02 11:21:28.185  system_uptime:14108145]
+    // Sending event #6300
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(84.0,570.0)
+:Sending Touch (ACTION_UP): 0:(8.845163,525.10474)
+:Sending Touch (ACTION_DOWN): 0:(486.0,77.0)
+:Sending Touch (ACTION_UP): 0:(488.9148,67.68768)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(666.0,601.0)
+:Sending Touch (ACTION_UP): 0:(679.33417,601.0246)
+:Sending Touch (ACTION_DOWN): 0:(100.0,778.0)
+:Sending Touch (ACTION_UP): 0:(108.751396,779.429)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(438.0,1165.0)
+:Sending Touch (ACTION_UP): 0:(431.8274,1165.6053)
+    //[calendar_time:2014-12-02 11:21:29.802  system_uptime:14109762]
+    // Sending event #6400
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(13.0,315.0)
+:Sending Touch (ACTION_UP): 0:(46.46371,357.77106)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(544.0,691.0)
+:Sending Touch (ACTION_UP): 0:(526.49335,697.585)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(415.0,676.0)
+:Sending Touch (ACTION_UP): 0:(419.49713,681.9232)
+:Sending Touch (ACTION_DOWN): 0:(530.0,1138.0)
+:Sending Touch (ACTION_UP): 0:(636.5325,1126.4738)
+:Sending Touch (ACTION_DOWN): 0:(634.0,714.0)
+:Sending Touch (ACTION_UP): 0:(586.2555,719.4785)
+:Sending Touch (ACTION_DOWN): 0:(149.0,99.0)
+:Sending Touch (ACTION_UP): 0:(141.93016,104.797035)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+    //[calendar_time:2014-12-02 11:21:30.388  system_uptime:14110348]
+    // Sending event #6500
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(478.0,38.0)
+:Sending Touch (ACTION_UP): 0:(476.80292,44.682964)
+:Sending Touch (ACTION_DOWN): 0:(441.0,508.0)
+:Sending Touch (ACTION_UP): 0:(506.6481,499.152)
+:Sending Touch (ACTION_DOWN): 0:(343.0,643.0)
+:Sending Touch (ACTION_UP): 0:(444.0924,616.9917)
+:Sending Touch (ACTION_DOWN): 0:(112.0,604.0)
+:Sending Touch (ACTION_UP): 0:(107.684875,601.9277)
+:Sending Touch (ACTION_DOWN): 0:(328.0,351.0)
+:Sending Touch (ACTION_UP): 0:(333.56985,351.73196)
+:Sending Touch (ACTION_DOWN): 0:(719.0,1092.0)
+:Sending Touch (ACTION_UP): 0:(707.7043,1092.4023)
+:Sending Touch (ACTION_DOWN): 0:(311.0,87.0)
+:Sending Touch (ACTION_UP): 0:(311.9744,65.119225)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    // Rejecting start of Intent { act=android.intent.action.QUICK_CLOCK cmp=com.android.settings/.Settings$DateTimeSettingsActivity } in package com.android.settings
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(86.0,407.0)
+:Sending Touch (ACTION_UP): 0:(107.24385,397.3163)
+:Sending Touch (ACTION_DOWN): 0:(683.0,359.0)
+:Sending Touch (ACTION_UP): 0:(665.9262,314.73935)
+:Sending Touch (ACTION_DOWN): 0:(617.0,852.0)
+:Sending Touch (ACTION_UP): 0:(633.52,924.91736)
+:Sending Touch (ACTION_DOWN): 0:(26.0,988.0)
+:Sending Touch (ACTION_UP): 0:(30.018219,993.8941)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+    //[calendar_time:2014-12-02 11:21:31.335  system_uptime:14111295]
+    // Sending event #6600
+:Sending Touch (ACTION_DOWN): 0:(613.0,99.0)
+:Sending Touch (ACTION_UP): 0:(612.43036,106.9927)
+:Sending Touch (ACTION_DOWN): 0:(575.0,720.0)
+:Sending Touch (ACTION_UP): 0:(573.7557,715.542)
+:Sending Touch (ACTION_DOWN): 0:(585.0,1129.0)
+:Sending Touch (ACTION_UP): 0:(570.7135,1144.5417)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(160.0,81.0)
+:Sending Touch (ACTION_UP): 0:(180.84386,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(695.0,147.0)
+:Sending Touch (ACTION_UP): 0:(685.0564,147.06155)
+:Sending Touch (ACTION_DOWN): 0:(242.0,782.0)
+:Sending Touch (ACTION_UP): 0:(241.6269,791.7134)
+:Sending Touch (ACTION_DOWN): 0:(463.0,992.0)
+:Sending Touch (ACTION_UP): 0:(464.05676,1005.5148)
+:Sending Touch (ACTION_DOWN): 0:(525.0,382.0)
+:Sending Touch (ACTION_UP): 0:(431.50067,458.45267)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+    //[calendar_time:2014-12-02 11:21:32.140  system_uptime:14112101]
+    // Sending event #6700
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(177.0,345.0)
+:Sending Touch (ACTION_UP): 0:(168.6854,332.8272)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(5.0,896.0)
+:Sending Touch (ACTION_UP): 0:(6.7405157,888.15155)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(436.0,273.0)
+:Sending Touch (ACTION_UP): 0:(444.89688,272.98557)
+:Sending Touch (ACTION_DOWN): 0:(603.0,258.0)
+:Sending Touch (ACTION_UP): 0:(662.0289,354.53662)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    //[calendar_time:2014-12-02 11:21:33.293  system_uptime:14113253]
+    // Sending event #6800
+:Sending Touch (ACTION_DOWN): 0:(127.0,466.0)
+:Sending Touch (ACTION_UP): 0:(131.59773,457.71735)
+:Sending Touch (ACTION_DOWN): 0:(318.0,928.0)
+:Sending Touch (ACTION_UP): 0:(317.91202,926.3767)
+:Sending Touch (ACTION_DOWN): 0:(26.0,524.0)
+:Sending Touch (ACTION_UP): 0:(29.27428,527.8734)
+:Sending Touch (ACTION_DOWN): 0:(676.0,1075.0)
+:Sending Touch (ACTION_UP): 0:(676.518,1073.1704)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(96.0,747.0)
+:Sending Touch (ACTION_UP): 0:(81.063705,735.7552)
+:Sending Touch (ACTION_DOWN): 0:(92.0,32.0)
+:Sending Touch (ACTION_UP): 0:(101.58395,31.65304)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(26.0,843.0)
+:Sending Touch (ACTION_UP): 0:(25.323967,842.71985)
+:Sending Touch (ACTION_DOWN): 0:(160.0,1088.0)
+    //[calendar_time:2014-12-02 11:21:33.535  system_uptime:14113496]
+    // Sending event #6900
+:Sending Touch (ACTION_UP): 0:(103.1616,1142.7372)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(707.0,764.0)
+:Sending Touch (ACTION_UP): 0:(691.0741,755.7536)
+:Sending Touch (ACTION_DOWN): 0:(373.0,930.0)
+:Sending Touch (ACTION_UP): 0:(416.28537,913.2966)
+:Sending Touch (ACTION_DOWN): 0:(448.0,532.0)
+:Sending Touch (ACTION_UP): 0:(450.08002,534.79065)
+:Sending Flip keyboardOpen=false
+    // Rejecting start of Intent { act=android.intent.action.SEND typ=text/plain cmp=com.android.mms/.ui.ComposeMessageActivity } in package com.android.mms
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(649.0,102.0)
+:Sending Touch (ACTION_UP): 0:(643.51654,103.65876)
+:Sending Touch (ACTION_DOWN): 0:(307.0,754.0)
+:Sending Touch (ACTION_UP): 0:(359.4796,744.4111)
+    //[calendar_time:2014-12-02 11:21:34.496  system_uptime:14114456]
+    // Sending event #7000
+    //[calendar_time:2014-12-02 11:21:34.496  system_uptime:14114456]
+    // Sending event #7000
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(561.0,176.0)
+:Sending Touch (ACTION_UP): 0:(560.7697,177.62036)
+:Sending Touch (ACTION_DOWN): 0:(90.0,686.0)
+:Sending Touch (ACTION_UP): 0:(102.08177,634.60925)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(130.0,323.0)
+:Sending Touch (ACTION_UP): 0:(130.80959,299.95117)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(447.0,195.0)
+:Sending Touch (ACTION_UP): 0:(409.42206,184.80382)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(8.0,119.0)
+:Sending Touch (ACTION_UP): 0:(6.7775054,116.01274)
+:Sending Touch (ACTION_DOWN): 0:(642.0,1025.0)
+:Sending Touch (ACTION_UP): 0:(635.25226,1016.1908)
+    //[calendar_time:2014-12-02 11:21:35.515  system_uptime:14115475]
+    // Sending event #7100
+    //[calendar_time:2014-12-02 11:21:35.515  system_uptime:14115476]
+    // Sending event #7100
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(642.0,766.0)
+:Sending Touch (ACTION_UP): 0:(650.34735,766.3547)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(161.0,252.0)
+:Sending Touch (ACTION_UP): 0:(187.16878,249.11641)
+:Sending Touch (ACTION_DOWN): 0:(674.0,425.0)
+:Sending Touch (ACTION_UP): 0:(682.0112,436.8549)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(39.0,98.0)
+:Sending Touch (ACTION_UP): 0:(40.082527,100.82429)
+:Sending Touch (ACTION_DOWN): 0:(183.0,548.0)
+:Sending Touch (ACTION_UP): 0:(183.27684,550.60046)
+:Sending Touch (ACTION_DOWN): 0:(692.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(692.8755,1068.5469)
+:Sending Touch (ACTION_DOWN): 0:(173.0,861.0)
+:Sending Touch (ACTION_UP): 0:(168.34026,845.827)
+:Sending Touch (ACTION_DOWN): 0:(359.0,218.0)
+:Sending Touch (ACTION_UP): 0:(380.79483,267.49527)
+:Sending Touch (ACTION_DOWN): 0:(424.0,52.0)
+:Sending Touch (ACTION_UP): 0:(416.2977,40.916824)
+:Sending Touch (ACTION_DOWN): 0:(345.0,1107.0)
+:Sending Touch (ACTION_UP): 0:(349.06442,1102.0974)
+:Sending Touch (ACTION_DOWN): 0:(54.0,970.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+    //[calendar_time:2014-12-02 11:21:36.182  system_uptime:14116142]
+    // Sending event #7200
+:Sending Touch (ACTION_UP): 0:(13.318173,989.359)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(270.0,971.0)
+:Sending Touch (ACTION_UP): 0:(276.9811,950.0455)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(134.0,295.0)
+:Sending Touch (ACTION_UP): 0:(128.76175,297.9843)
+:Sending Touch (ACTION_DOWN): 0:(400.0,1177.0)
+:Sending Touch (ACTION_UP): 0:(409.8871,1176.9788)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(485.0,509.0)
+:Sending Touch (ACTION_UP): 0:(496.12308,509.57785)
+:Sending Touch (ACTION_DOWN): 0:(703.0,345.0)
+:Sending Touch (ACTION_UP): 0:(704.4885,347.8213)
+:Sending Touch (ACTION_DOWN): 0:(91.0,588.0)
+:Sending Touch (ACTION_UP): 0:(102.837105,630.81775)
+:Sending Touch (ACTION_DOWN): 0:(66.0,352.0)
+:Sending Touch (ACTION_UP): 0:(64.01259,336.3999)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(223.0,569.0)
+:Sending Touch (ACTION_UP): 0:(222.45306,566.3188)
+:Sending Touch (ACTION_DOWN): 0:(680.0,310.0)
+:Sending Touch (ACTION_UP): 0:(720.0,208.7766)
+    //[calendar_time:2014-12-02 11:21:36.825  system_uptime:14116785]
+    // Sending event #7300
+    //[calendar_time:2014-12-02 11:21:36.825  system_uptime:14116785]
+    // Sending event #7300
+:Sending Touch (ACTION_DOWN): 0:(226.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(270.38348,1125.5233)
+:Sending Touch (ACTION_DOWN): 0:(6.0,2.0)
+:Sending Touch (ACTION_UP): 0:(8.864854,0.0)
+:Sending Touch (ACTION_DOWN): 0:(527.0,533.0)
+:Sending Touch (ACTION_UP): 0:(527.9757,535.0108)
+:Sending Touch (ACTION_DOWN): 0:(533.0,293.0)
+:Sending Touch (ACTION_UP): 0:(539.97925,296.1086)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(266.0,848.0)
+:Sending Touch (ACTION_UP): 0:(265.1367,843.29047)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(261.0,550.0)
+:Sending Touch (ACTION_UP): 0:(268.874,550.5835)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(662.0,652.0)
+:Sending Touch (ACTION_UP): 0:(608.31116,621.3113)
+:Sending Touch (ACTION_DOWN): 0:(79.0,655.0)
+:Sending Touch (ACTION_UP): 0:(76.80546,667.1029)
+:Sending Touch (ACTION_DOWN): 0:(341.0,948.0)
+:Sending Touch (ACTION_UP): 0:(341.12128,943.07135)
+:Sending Touch (ACTION_DOWN): 0:(189.0,428.0)
+:Sending Touch (ACTION_UP): 0:(195.92126,398.5155)
+:Sending Flip keyboardOpen=false
+    //[calendar_time:2014-12-02 11:21:37.190  system_uptime:14117150]
+    // Sending event #7400
+:Sending Touch (ACTION_DOWN): 0:(36.0,300.0)
+:Sending Touch (ACTION_UP): 0:(26.6481,321.27704)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(143.0,400.0)
+:Sending Touch (ACTION_UP): 0:(145.60793,413.45355)
+:Sending Touch (ACTION_DOWN): 0:(648.0,708.0)
+:Sending Touch (ACTION_UP): 0:(591.4271,707.78937)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(172.0,154.0)
+:Sending Touch (ACTION_UP): 0:(180.1599,241.61258)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(149.0,400.0)
+:Sending Touch (ACTION_UP): 0:(224.26915,443.78726)
+:Sending Touch (ACTION_DOWN): 0:(324.0,268.0)
+:Sending Touch (ACTION_UP): 0:(323.5777,268.00385)
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(400.0,403.0)
+:Sending Touch (ACTION_UP): 0:(393.3201,394.16852)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+    //[calendar_time:2014-12-02 11:21:37.633  system_uptime:14117593]
+    // Sending event #7500
+:Sending Touch (ACTION_DOWN): 0:(311.0,712.0)
+:Sending Touch (ACTION_UP): 0:(282.73706,689.2183)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(172.0,394.0)
+:Sending Touch (ACTION_UP): 0:(159.16647,377.11456)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(355.0,16.0)
+:Sending Touch (ACTION_UP): 0:(329.96826,23.507236)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(65.0,597.0)
+:Sending Touch (ACTION_UP): 0:(72.49009,614.29645)
+:Sending Touch (ACTION_DOWN): 0:(120.0,721.0)
+:Sending Touch (ACTION_UP): 0:(114.25348,718.11334)
+:Sending Touch (ACTION_DOWN): 0:(2.0,621.0)
+:Sending Touch (ACTION_UP): 0:(0.0,592.9968)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-2.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-4.0)
+    //[calendar_time:2014-12-02 11:21:38.914  system_uptime:14118874]
+    // Sending event #7600
+    //[calendar_time:2014-12-02 11:21:38.915  system_uptime:14118875]
+    // Sending event #7600
+:Sending Touch (ACTION_DOWN): 0:(643.0,12.0)
+:Sending Touch (ACTION_UP): 0:(653.67975,0.0)
+:Sending Touch (ACTION_DOWN): 0:(39.0,560.0)
+:Sending Touch (ACTION_UP): 0:(33.897457,570.1132)
+:Sending Touch (ACTION_DOWN): 0:(131.0,1004.0)
+:Sending Touch (ACTION_UP): 0:(130.83424,963.02155)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(316.0,811.0)
+:Sending Touch (ACTION_UP): 0:(301.40707,831.04346)
+:Sending Touch (ACTION_DOWN): 0:(428.0,741.0)
+:Sending Touch (ACTION_UP): 0:(514.57874,721.52527)
+:Sending Touch (ACTION_DOWN): 0:(477.0,298.0)
+:Sending Touch (ACTION_UP): 0:(488.24283,319.27972)
+:Sending Touch (ACTION_DOWN): 0:(540.0,1003.0)
+:Sending Touch (ACTION_UP): 0:(535.5624,995.2265)
+:Sending Touch (ACTION_DOWN): 0:(491.0,956.0)
+:Sending Touch (ACTION_UP): 0:(486.8447,954.5397)
+:Sending Touch (ACTION_DOWN): 0:(327.0,351.0)
+:Sending Touch (ACTION_UP): 0:(370.37003,367.2289)
+:Sending Touch (ACTION_DOWN): 0:(232.0,1064.0)
+:Sending Touch (ACTION_UP): 0:(202.80843,1059.831)
+:Sending Touch (ACTION_DOWN): 0:(136.0,60.0)
+:Sending Touch (ACTION_UP): 0:(148.84634,64.27551)
+:Sending Touch (ACTION_DOWN): 0:(399.0,868.0)
+:Sending Touch (ACTION_UP): 0:(399.70282,884.9484)
+:Sending Touch (ACTION_DOWN): 0:(385.0,277.0)
+:Sending Touch (ACTION_UP): 0:(417.83838,327.1178)
+    //[calendar_time:2014-12-02 11:21:39.540  system_uptime:14119500]
+    // Sending event #7700
+:Sending Touch (ACTION_DOWN): 0:(82.0,89.0)
+:Sending Touch (ACTION_UP): 0:(136.19514,71.10701)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-4.0)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-1.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(1.0,3.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(116.0,1141.0)
+:Sending Touch (ACTION_UP): 0:(121.04121,1140.5092)
+:Sending Touch (ACTION_DOWN): 0:(251.0,515.0)
+:Sending Touch (ACTION_UP): 0:(237.87685,522.40454)
+:Sending Touch (ACTION_DOWN): 0:(59.0,1051.0)
+:Sending Touch (ACTION_UP): 0:(8.146116,969.16064)
+:Sending Touch (ACTION_DOWN): 0:(505.0,176.0)
+:Sending Touch (ACTION_UP): 0:(507.90726,184.32549)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,2.0)
+    //[calendar_time:2014-12-02 11:21:40.452  system_uptime:14120413]
+    // Sending event #7800
+:Sending Touch (ACTION_DOWN): 0:(7.0,150.0)
+:Sending Touch (ACTION_UP): 0:(7.6532464,141.4918)
+:Sending Touch (ACTION_DOWN): 0:(289.0,385.0)
+:Sending Touch (ACTION_UP): 0:(285.9021,383.55945)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(468.0,38.0)
+:Sending Touch (ACTION_UP): 0:(451.8801,35.525417)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(315.0,947.0)
+:Sending Touch (ACTION_UP): 0:(305.51932,963.465)
+:Sending Touch (ACTION_DOWN): 0:(234.0,920.0)
+:Sending Touch (ACTION_UP): 0:(254.36427,937.1722)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(58.0,1167.0)
+:Sending Touch (ACTION_UP): 0:(63.355976,1154.1787)
+:Sending Touch (ACTION_DOWN): 0:(285.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(237.25516,943.2402)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(653.0,806.0)
+:Sending Touch (ACTION_UP): 0:(670.4194,861.9912)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,4.0)
+    //[calendar_time:2014-12-02 11:21:41.793  system_uptime:14121753]
+    // Sending event #7900
+:Sending Touch (ACTION_DOWN): 0:(97.0,785.0)
+:Sending Touch (ACTION_UP): 0:(69.7237,845.3711)
+:Sending Touch (ACTION_DOWN): 0:(360.0,939.0)
+:Sending Touch (ACTION_UP): 0:(341.74368,944.4929)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(597.0,725.0)
+:Sending Touch (ACTION_UP): 0:(619.18774,841.73553)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(60.0,966.0)
+:Sending Touch (ACTION_UP): 0:(53.482315,978.6964)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(44.0,404.0)
+:Sending Touch (ACTION_UP): 0:(5.2725596,364.7133)
+:Sending Touch (ACTION_DOWN): 0:(112.0,1010.0)
+:Sending Touch (ACTION_UP): 0:(66.85776,978.54553)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,0.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+    //[calendar_time:2014-12-02 11:21:42.132  system_uptime:14122093]
+    // Sending event #8000
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(680.0,1114.0)
+:Sending Touch (ACTION_UP): 0:(656.7447,1184.0)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,-1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(153.0,32.0)
+:Sending Touch (ACTION_UP): 0:(211.71188,110.5338)
+:Sending Trackball (ACTION_MOVE): 0:(1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-3.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(642.0,738.0)
+:Sending Touch (ACTION_UP): 0:(643.6009,737.90643)
+:Sending Touch (ACTION_DOWN): 0:(207.0,1155.0)
+    //[calendar_time:2014-12-02 11:21:43.644  system_uptime:14123604]
+    // Sending event #8100
+:Sending Touch (ACTION_UP): 0:(210.85036,1150.1918)
+:Sending Touch (ACTION_DOWN): 0:(403.0,933.0)
+:Sending Touch (ACTION_UP): 0:(404.7004,915.4509)
+:Sending Touch (ACTION_DOWN): 0:(300.0,317.0)
+:Sending Touch (ACTION_UP): 0:(299.67114,318.74713)
+:Sending Touch (ACTION_DOWN): 0:(280.0,804.0)
+:Sending Touch (ACTION_UP): 0:(274.31427,791.0719)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(427.0,387.0)
+:Sending Touch (ACTION_UP): 0:(365.4885,354.35062)
+:Sending Touch (ACTION_DOWN): 0:(169.0,552.0)
+:Sending Touch (ACTION_UP): 0:(166.77443,554.15857)
+:Sending Touch (ACTION_DOWN): 0:(522.0,912.0)
+    // Rejecting start of Intent { act=com.google.android.wearable.STATUS cmp=com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity } in package com.google.android.wearable.app
+:Sending Touch (ACTION_UP): 0:(550.7507,937.74)
+:Sending Touch (ACTION_DOWN): 0:(273.0,634.0)
+:Sending Touch (ACTION_UP): 0:(270.7573,631.8413)
+:Sending Touch (ACTION_DOWN): 0:(147.0,677.0)
+:Sending Touch (ACTION_UP): 0:(116.37549,743.4214)
+:Sending Touch (ACTION_DOWN): 0:(520.0,478.0)
+:Sending Touch (ACTION_UP): 0:(556.26526,532.3019)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-1.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+    // Rejecting start of Intent { act=com.google.android.wearable.STATUS cmp=com.google.android.wearable.app/com.google.android.clockwork.companion.StatusActivity } in package com.google.android.wearable.app
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(500.0,520.0)
+:Sending Touch (ACTION_UP): 0:(473.5587,563.64685)
+    //[calendar_time:2014-12-02 11:21:45.259  system_uptime:14125219]
+    // Sending event #8200
+    //[calendar_time:2014-12-02 11:21:45.260  system_uptime:14125220]
+    // Sending event #8200
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(3.0,3.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(436.0,1081.0)
+:Sending Touch (ACTION_UP): 0:(453.5914,1084.4182)
+:Sending Touch (ACTION_DOWN): 0:(612.0,1169.0)
+:Sending Touch (ACTION_UP): 0:(628.63,1151.8059)
+:Sending Touch (ACTION_DOWN): 0:(342.0,528.0)
+:Sending Touch (ACTION_UP): 0:(344.4436,568.45447)
+:Sending Touch (ACTION_DOWN): 0:(320.0,1178.0)
+:Sending Touch (ACTION_UP): 0:(320.45627,1178.7856)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+:Sending Touch (ACTION_DOWN): 0:(686.0,466.0)
+:Sending Touch (ACTION_UP): 0:(697.3911,472.5148)
+:Sending Touch (ACTION_DOWN): 0:(279.0,655.0)
+:Sending Touch (ACTION_UP): 0:(273.78778,662.18774)
+:Sending Touch (ACTION_DOWN): 0:(621.0,266.0)
+    //[calendar_time:2014-12-02 11:21:45.956  system_uptime:14125916]
+    // Sending event #8300
+:Sending Touch (ACTION_UP): 0:(669.6087,342.4354)
+:Sending Touch (ACTION_DOWN): 0:(523.0,1060.0)
+:Sending Touch (ACTION_UP): 0:(526.35974,1079.0668)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://play.google.com/store/apps/details?id=com.soagrowers.android.tripcomputer cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Touch (ACTION_DOWN): 0:(689.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(684.89606,1092.8528)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(132.0,159.0)
+:Sending Touch (ACTION_UP): 0:(141.22612,159.15678)
+:Sending Touch (ACTION_DOWN): 0:(193.0,347.0)
+:Sending Touch (ACTION_UP): 0:(206.9084,383.60733)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(350.0,925.0)
+:Sending Touch (ACTION_UP): 0:(352.6325,916.1053)
+:Sending Touch (ACTION_DOWN): 0:(230.0,144.0)
+:Sending Touch (ACTION_UP): 0:(229.19861,141.13965)
+    //[calendar_time:2014-12-02 11:21:47.213  system_uptime:14127173]
+    // Sending event #8400
+:Sending Touch (ACTION_DOWN): 0:(406.0,770.0)
+:Sending Touch (ACTION_UP): 0:(478.92844,771.5965)
+:Sending Touch (ACTION_DOWN): 0:(27.0,1007.0)
+:Sending Touch (ACTION_UP): 0:(0.0,985.35254)
+:Sending Touch (ACTION_DOWN): 0:(464.0,1130.0)
+:Sending Touch (ACTION_UP): 0:(461.7764,1132.8229)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(313.0,564.0)
+:Sending Touch (ACTION_UP): 0:(315.1636,578.5836)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(326.0,84.0)
+:Sending Touch (ACTION_UP): 0:(303.08383,81.051384)
+:Sending Touch (ACTION_DOWN): 0:(30.0,203.0)
+:Sending Touch (ACTION_UP): 0:(43.928967,203.00482)
+:Sending Touch (ACTION_DOWN): 0:(298.0,99.0)
+:Sending Touch (ACTION_UP): 0:(292.83563,101.62633)
+:Sending Touch (ACTION_DOWN): 0:(103.0,1068.0)
+:Sending Touch (ACTION_UP): 0:(134.84372,1025.9137)
+:Sending Touch (ACTION_DOWN): 0:(508.0,877.0)
+:Sending Touch (ACTION_UP): 0:(512.4682,881.80414)
+:Sending Touch (ACTION_DOWN): 0:(157.0,255.0)
+:Sending Touch (ACTION_UP): 0:(150.97513,255.2929)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,4.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    //[calendar_time:2014-12-02 11:21:48.128  system_uptime:14128088]
+    // Sending event #8500
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(117.0,354.0)
+:Sending Touch (ACTION_UP): 0:(114.547745,355.9451)
+:Sending Touch (ACTION_DOWN): 0:(240.0,559.0)
+:Sending Touch (ACTION_UP): 0:(301.03622,421.7368)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(563.0,323.0)
+:Sending Touch (ACTION_UP): 0:(514.2859,280.08762)
+:Sending Touch (ACTION_DOWN): 0:(86.0,640.0)
+:Sending Touch (ACTION_UP): 0:(92.85956,641.142)
+:Sending Touch (ACTION_DOWN): 0:(296.0,267.0)
+:Sending Touch (ACTION_UP): 0:(295.95456,254.27464)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Flip keyboardOpen=true
+:Sending Trackball (ACTION_MOVE): 0:(1.0,-3.0)
+    //[calendar_time:2014-12-02 11:21:48.935  system_uptime:14128895]
+    // Sending event #8600
+    //[calendar_time:2014-12-02 11:21:48.936  system_uptime:14128896]
+    // Sending event #8600
+:Sending Touch (ACTION_DOWN): 0:(202.0,834.0)
+:Sending Touch (ACTION_UP): 0:(188.06769,817.72235)
+:Sending Touch (ACTION_DOWN): 0:(403.0,1074.0)
+:Sending Touch (ACTION_UP): 0:(399.23367,1074.0613)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://play.google.com/store/apps/details?id=com.soagrowers.android.tripcomputer cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://play.google.com/store/apps/details?id=com.soagrowers.android.tripcomputer cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Touch (ACTION_DOWN): 0:(454.0,894.0)
+:Sending Touch (ACTION_UP): 0:(478.5067,850.098)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(75.0,461.0)
+:Sending Touch (ACTION_UP): 0:(61.08179,469.6395)
+:Sending Touch (ACTION_DOWN): 0:(511.0,379.0)
+:Sending Touch (ACTION_UP): 0:(513.19574,377.9744)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-5.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(298.0,1095.0)
+:Sending Touch (ACTION_UP): 0:(266.93497,1120.1086)
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,1.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(7.0,1071.0)
+:Sending Touch (ACTION_UP): 0:(6.3995566,1069.5991)
+:Sending Touch (ACTION_DOWN): 0:(694.0,797.0)
+:Sending Touch (ACTION_UP): 0:(687.8327,801.45044)
+:Sending Touch (ACTION_DOWN): 0:(73.0,428.0)
+:Sending Touch (ACTION_UP): 0:(114.00433,479.48373)
+    //[calendar_time:2014-12-02 11:21:50.071  system_uptime:14130031]
+    // Sending event #8700
+    //[calendar_time:2014-12-02 11:21:50.071  system_uptime:14130032]
+    // Sending event #8700
+:Sending Trackball (ACTION_MOVE): 0:(-2.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(482.0,466.0)
+:Sending Touch (ACTION_UP): 0:(446.51306,558.07434)
+:Sending Touch (ACTION_DOWN): 0:(257.0,400.0)
+:Sending Touch (ACTION_UP): 0:(260.78796,408.35144)
+:Sending Touch (ACTION_DOWN): 0:(575.0,82.0)
+:Sending Touch (ACTION_UP): 0:(572.6071,90.16217)
+:Sending Touch (ACTION_DOWN): 0:(642.0,677.0)
+:Sending Touch (ACTION_UP): 0:(647.41907,682.61224)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(665.0,207.0)
+:Sending Touch (ACTION_UP): 0:(667.1412,205.5491)
+:Sending Touch (ACTION_DOWN): 0:(504.0,1047.0)
+:Sending Touch (ACTION_UP): 0:(483.4743,1063.7354)
+:Sending Touch (ACTION_DOWN): 0:(657.0,959.0)
+:Sending Touch (ACTION_UP): 0:(643.89264,957.25604)
+:Sending Touch (ACTION_DOWN): 0:(664.0,1130.0)
+:Sending Touch (ACTION_UP): 0:(664.95685,1060.4146)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(669.0,411.0)
+:Sending Touch (ACTION_UP): 0:(659.4579,433.50626)
+    //[calendar_time:2014-12-02 11:21:51.577  system_uptime:14131537]
+    // Sending event #8800
+    //[calendar_time:2014-12-02 11:21:51.578  system_uptime:14131538]
+    // Sending event #8800
+:Sending Touch (ACTION_DOWN): 0:(623.0,874.0)
+:Sending Touch (ACTION_UP): 0:(621.60724,865.7429)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-1.0)
+:Sending Flip keyboardOpen=false
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(162.0,1150.0)
+:Sending Touch (ACTION_UP): 0:(152.75114,1148.3712)
+:Sending Touch (ACTION_DOWN): 0:(360.0,205.0)
+:Sending Touch (ACTION_UP): 0:(309.45276,177.48717)
+:Sending Touch (ACTION_DOWN): 0:(96.0,191.0)
+:Sending Touch (ACTION_UP): 0:(95.16129,196.33116)
+:Sending Touch (ACTION_DOWN): 0:(567.0,1157.0)
+:Sending Touch (ACTION_UP): 0:(555.65784,1171.823)
+:Sending Touch (ACTION_DOWN): 0:(453.0,339.0)
+:Sending Touch (ACTION_UP): 0:(447.23273,342.21033)
+:Sending Touch (ACTION_DOWN): 0:(436.0,68.0)
+:Sending Touch (ACTION_UP): 0:(446.57162,67.33736)
+:Sending Touch (ACTION_DOWN): 0:(198.0,970.0)
+:Sending Touch (ACTION_UP): 0:(197.89502,992.4426)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    //[calendar_time:2014-12-02 11:21:52.680  system_uptime:14132640]
+    // Sending event #8900
+:Sending Touch (ACTION_DOWN): 0:(684.0,337.0)
+:Sending Touch (ACTION_UP): 0:(673.3438,336.51108)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(185.0,915.0)
+:Sending Touch (ACTION_UP): 0:(164.84506,904.762)
+:Sending Touch (ACTION_DOWN): 0:(319.0,203.0)
+:Sending Touch (ACTION_UP): 0:(311.51407,198.64719)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Flip keyboardOpen=true
+:Sending Touch (ACTION_DOWN): 0:(686.0,706.0)
+:Sending Touch (ACTION_UP): 0:(663.12933,705.9512)
+:Sending Touch (ACTION_DOWN): 0:(239.0,440.0)
+:Sending Touch (ACTION_UP): 0:(286.2202,452.15417)
+:Sending Touch (ACTION_DOWN): 0:(259.0,1084.0)
+:Sending Touch (ACTION_UP): 0:(259.9226,1077.0956)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(661.0,837.0)
+    //[calendar_time:2014-12-02 11:21:53.660  system_uptime:14133620]
+    // Sending event #9000
+:Sending Touch (ACTION_UP): 0:(720.0,873.78235)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(458.0,119.0)
+:Sending Touch (ACTION_UP): 0:(460.9608,119.80523)
+:Sending Touch (ACTION_DOWN): 0:(419.0,781.0)
+:Sending Touch (ACTION_UP): 0:(386.623,712.27783)
+:Sending Touch (ACTION_DOWN): 0:(654.0,528.0)
+:Sending Touch (ACTION_UP): 0:(643.9662,516.88715)
+:Sending Touch (ACTION_DOWN): 0:(226.0,42.0)
+:Sending Touch (ACTION_UP): 0:(225.62573,41.272343)
+:Sending Touch (ACTION_DOWN): 0:(429.0,1154.0)
+:Sending Touch (ACTION_UP): 0:(422.93402,1151.8452)
+:Sending Touch (ACTION_DOWN): 0:(627.0,15.0)
+:Sending Touch (ACTION_UP): 0:(604.35406,9.74983)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(464.0,362.0)
+:Sending Touch (ACTION_UP): 0:(463.34402,402.4936)
+:Sending Touch (ACTION_DOWN): 0:(279.0,675.0)
+:Sending Touch (ACTION_UP): 0:(272.94427,688.52826)
+:Sending Touch (ACTION_DOWN): 0:(125.0,669.0)
+:Sending Touch (ACTION_UP): 0:(215.47377,704.15466)
+:Sending Touch (ACTION_DOWN): 0:(684.0,334.0)
+:Sending Touch (ACTION_UP): 0:(720.0,338.3934)
+:Sending Touch (ACTION_DOWN): 0:(312.0,328.0)
+:Sending Touch (ACTION_UP): 0:(342.23175,308.53674)
+    //[calendar_time:2014-12-02 11:21:53.991  system_uptime:14133952]
+    // Sending event #9100
+    //[calendar_time:2014-12-02 11:21:53.992  system_uptime:14133952]
+    // Sending event #9100
+:Sending Touch (ACTION_DOWN): 0:(685.0,500.0)
+:Sending Touch (ACTION_UP): 0:(679.6884,506.02237)
+:Sending Touch (ACTION_DOWN): 0:(268.0,731.0)
+:Sending Touch (ACTION_UP): 0:(301.33948,720.29083)
+:Sending Touch (ACTION_DOWN): 0:(613.0,1011.0)
+:Sending Touch (ACTION_UP): 0:(616.6655,1018.83997)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Touch (ACTION_DOWN): 0:(497.0,271.0)
+:Sending Touch (ACTION_UP): 0:(507.87515,267.53488)
+:Sending Touch (ACTION_DOWN): 0:(383.0,1133.0)
+:Sending Touch (ACTION_UP): 0:(254.79636,1132.8258)
+:Sending Touch (ACTION_DOWN): 0:(553.0,438.0)
+:Sending Touch (ACTION_UP): 0:(547.75104,419.4898)
+:Sending Touch (ACTION_DOWN): 0:(553.0,728.0)
+:Sending Touch (ACTION_UP): 0:(558.27277,724.0104)
+:Sending Touch (ACTION_DOWN): 0:(325.0,233.0)
+:Sending Touch (ACTION_UP): 0:(363.0316,322.17383)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,2.0)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=http://android.soagrowers.com/tripcomputer/tripcomputer-help.html cmp=android/com.android.internal.app.ResolverActivity } in package android
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(471.0,161.0)
+:Sending Touch (ACTION_UP): 0:(458.29388,156.92363)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(472.0,498.0)
+    //[calendar_time:2014-12-02 11:21:54.901  system_uptime:14134862]
+    // Sending event #9200
+:Sending Touch (ACTION_UP): 0:(453.27725,485.85345)
+:Sending Touch (ACTION_DOWN): 0:(578.0,676.0)
+:Sending Touch (ACTION_UP): 0:(589.416,677.079)
+:Sending Touch (ACTION_DOWN): 0:(377.0,83.0)
+:Sending Touch (ACTION_UP): 0:(376.68793,67.93643)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(194.0,261.0)
+:Sending Touch (ACTION_UP): 0:(284.17804,241.93959)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=android.intent.action.ASSIST cmp=com.google.android.googlequicksearchbox/.SearchActivity } in package com.google.android.googlequicksearchbox
+:Sending Touch (ACTION_DOWN): 0:(238.0,202.0)
+:Sending Touch (ACTION_UP): 0:(219.27832,206.63689)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-5.0)
+:Sending Touch (ACTION_DOWN): 0:(510.0,265.0)
+:Sending Touch (ACTION_UP): 0:(469.16937,254.42448)
+:Sending Touch (ACTION_DOWN): 0:(97.0,868.0)
+:Sending Touch (ACTION_UP): 0:(193.16734,961.2934)
+    // Rejecting start of Intent { act=android.intent.action.VIEW dat=https://play.google.com/store/apps/details?id=com.soagrowers.android.tripcomputer cmp=com.android.vending/com.google.android.finsky.activities.MainActivity } in package com.android.vending
+:Sending Touch (ACTION_DOWN): 0:(366.0,467.0)
+:Sending Touch (ACTION_UP): 0:(357.75656,456.68152)
+    //[calendar_time:2014-12-02 11:21:55.725  system_uptime:14135686]
+    // Sending event #9300
+    //[calendar_time:2014-12-02 11:21:55.726  system_uptime:14135686]
+    // Sending event #9300
+:Sending Trackball (ACTION_MOVE): 0:(4.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(20.0,1168.0)
+:Sending Touch (ACTION_UP): 0:(0.10126877,1172.8696)
+:Sending Touch (ACTION_DOWN): 0:(703.0,1066.0)
+:Sending Touch (ACTION_UP): 0:(693.6494,1074.2517)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(13.0,618.0)
+:Sending Touch (ACTION_UP): 0:(0.0,603.89484)
+:Sending Touch (ACTION_DOWN): 0:(85.0,744.0)
+:Sending Touch (ACTION_UP): 0:(92.35577,769.2706)
+:Sending Touch (ACTION_DOWN): 0:(563.0,419.0)
+:Sending Touch (ACTION_UP): 0:(555.72815,430.9341)
+:Sending Touch (ACTION_DOWN): 0:(443.0,1089.0)
+:Sending Touch (ACTION_UP): 0:(454.09683,1086.8954)
+:Sending Touch (ACTION_DOWN): 0:(45.0,447.0)
+:Sending Touch (ACTION_UP): 0:(44.476723,438.79105)
+    // activityResuming(com.soagrowers.android.tripcomputer)
+:Sending Touch (ACTION_DOWN): 0:(444.0,365.0)
+:Sending Touch (ACTION_UP): 0:(441.26294,366.35968)
+:Sending Touch (ACTION_DOWN): 0:(134.0,14.0)
+:Sending Touch (ACTION_UP): 0:(139.9489,4.901022)
+:Sending Touch (ACTION_DOWN): 0:(407.0,1144.0)
+:Sending Touch (ACTION_UP): 0:(424.38193,1153.1018)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(383.0,1001.0)
+:Sending Touch (ACTION_UP): 0:(384.83795,1000.0483)
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(354.0,956.0)
+:Sending Touch (ACTION_UP): 0:(353.34402,954.0458)
+:Sending Touch (ACTION_DOWN): 0:(110.0,827.0)
+:Sending Touch (ACTION_UP): 0:(90.17278,719.59766)
+:Sending Touch (ACTION_DOWN): 0:(620.0,610.0)
+:Sending Touch (ACTION_UP): 0:(606.0925,602.1443)
+:Sending Touch (ACTION_DOWN): 0:(291.0,253.0)
+    //[calendar_time:2014-12-02 11:21:57.300  system_uptime:14137260]
+    // Sending event #9400
+:Sending Touch (ACTION_UP): 0:(335.43472,181.57143)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,3.0)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.calculator2/.Calculator } in package com.android.calculator2
+:Sending Touch (ACTION_DOWN): 0:(92.0,478.0)
+:Sending Touch (ACTION_UP): 0:(101.73668,482.04114)
+:Sending Touch (ACTION_DOWN): 0:(486.0,916.0)
+:Sending Touch (ACTION_UP): 0:(476.93506,917.19543)
+:Sending Touch (ACTION_DOWN): 0:(79.0,853.0)
+:Sending Touch (ACTION_UP): 0:(74.947586,829.0708)
+    // Rejecting start of Intent { act=android.intent.action.SEND typ=text/plain cmp=com.android.bluetooth/.opp.BluetoothOppLauncherActivity } in package com.android.bluetooth
+:Sending Touch (ACTION_DOWN): 0:(702.0,1124.0)
+:Sending Touch (ACTION_UP): 0:(696.20856,1164.6589)
+:Sending Touch (ACTION_DOWN): 0:(384.0,915.0)
+:Sending Touch (ACTION_UP): 0:(389.3113,912.7267)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,2.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+    // Rejecting start of Intent { act=com.android.systemui.recent.action.TOGGLE_RECENTS cmp=com.android.systemui/.recent.RecentsActivity } in package com.android.systemui
+    //[calendar_time:2014-12-02 11:21:59.870  system_uptime:14139830]
+    // Sending event #9500
+    //[calendar_time:2014-12-02 11:21:59.871  system_uptime:14139831]
+    // Sending event #9500
+:Sending Trackball (ACTION_MOVE): 0:(1.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(561.0,951.0)
+:Sending Touch (ACTION_UP): 0:(568.7995,981.1038)
+:Sending Touch (ACTION_DOWN): 0:(710.0,871.0)
+:Sending Touch (ACTION_UP): 0:(688.23676,870.7074)
+:Sending Touch (ACTION_DOWN): 0:(345.0,1175.0)
+:Sending Touch (ACTION_UP): 0:(347.56952,1167.969)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,2.0)
+:Sending Touch (ACTION_DOWN): 0:(377.0,55.0)
+:Sending Touch (ACTION_UP): 0:(378.9673,45.39818)
+:Sending Touch (ACTION_DOWN): 0:(50.0,148.0)
+:Sending Touch (ACTION_UP): 0:(51.337967,146.6086)
+:Sending Flip keyboardOpen=false
+:Sending Touch (ACTION_DOWN): 0:(395.0,590.0)
+:Sending Touch (ACTION_UP): 0:(335.15134,566.65625)
+:Sending Touch (ACTION_DOWN): 0:(532.0,995.0)
+:Sending Touch (ACTION_UP): 0:(552.5496,968.8376)
+    //[calendar_time:2014-12-02 11:22:00.191  system_uptime:14140151]
+    // Sending event #9600
+    //[calendar_time:2014-12-02 11:22:00.192  system_uptime:14140152]
+    // Sending event #9600
+:Sending Touch (ACTION_DOWN): 0:(529.0,354.0)
+:Sending Touch (ACTION_UP): 0:(533.94275,347.58444)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+:Sending Touch (ACTION_DOWN): 0:(365.0,560.0)
+:Sending Touch (ACTION_UP): 0:(383.98306,559.3958)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,3.0)
+:Sending Touch (ACTION_DOWN): 0:(182.0,322.0)
+:Sending Touch (ACTION_UP): 0:(184.99266,321.48233)
+:Sending Touch (ACTION_DOWN): 0:(102.0,382.0)
+:Sending Touch (ACTION_UP): 0:(44.24895,426.5983)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(147.0,519.0)
+:Sending Touch (ACTION_UP): 0:(155.73567,527.0119)
+:Sending Trackball (ACTION_MOVE): 0:(4.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-3.0,-5.0)
+:Sending Trackball (ACTION_UP): 0:(0.0,0.0)
+:Sending Trackball (ACTION_MOVE): 0:(-1.0,-3.0)
+:Sending Touch (ACTION_DOWN): 0:(189.0,415.0)
+:Sending Touch (ACTION_UP): 0:(188.0778,429.76108)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,3.0)
+    //[calendar_time:2014-12-02 11:22:00.726  system_uptime:14140686]
+    // Sending event #9700
+:Sending Touch (ACTION_DOWN): 0:(111.0,263.0)
+:Sending Touch (ACTION_UP): 0:(58.777695,303.58725)
+    // Rejecting start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.android.contacts/.activities.PeopleActivity } in package com.android.contacts
+:Sending Touch (ACTION_DOWN): 0:(509.0,1102.0)
+:Sending Touch (ACTION_UP): 0:(605.5206,1157.6118)
+:Sending Flip keyboardOpen=true
+:Switch: #Intent;action=android.intent.action.MAIN;category=android.intent.category.LAUNCHER;launchFlags=0x10200000;component=com.soagrowers.android.tripcomputer/.TripComputer;end
+    // Allowing start of Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.soagrowers.android.tripcomputer/.TripComputer } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(659.0,1023.0)
+:Sending Touch (ACTION_UP): 0:(649.8802,1027.5164)
+:Sending Touch (ACTION_DOWN): 0:(130.0,964.0)
+:Sending Touch (ACTION_UP): 0:(140.1069,1025.0571)
+:Sending Touch (ACTION_DOWN): 0:(335.0,1091.0)
+:Sending Touch (ACTION_UP): 0:(337.43637,1093.3997)
+:Sending Touch (ACTION_DOWN): 0:(53.0,248.0)
+:Sending Touch (ACTION_UP): 0:(25.122307,258.58176)
+:Sending Touch (ACTION_DOWN): 0:(128.0,207.0)
+:Sending Touch (ACTION_UP): 0:(91.51949,153.652)
+:Sending Touch (ACTION_DOWN): 0:(697.0,354.0)
+:Sending Touch (ACTION_UP): 0:(682.7549,361.91776)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+:Sending Touch (ACTION_DOWN): 0:(661.0,776.0)
+:Sending Touch (ACTION_UP): 0:(625.02795,741.81323)
+:Sending Touch (ACTION_DOWN): 0:(303.0,924.0)
+:Sending Touch (ACTION_UP): 0:(268.2229,983.8414)
+    //[calendar_time:2014-12-02 11:22:01.310  system_uptime:14141270]
+    // Sending event #9800
+:Sending Touch (ACTION_DOWN): 0:(711.0,502.0)
+:Sending Touch (ACTION_UP): 0:(720.0,570.9222)
+:Sending Touch (ACTION_DOWN): 0:(324.0,684.0)
+:Sending Touch (ACTION_UP): 0:(324.0135,671.7938)
+:Sending Touch (ACTION_DOWN): 0:(678.0,625.0)
+:Sending Touch (ACTION_UP): 0:(679.9194,625.18445)
+:Sending Touch (ACTION_DOWN): 0:(311.0,976.0)
+:Sending Touch (ACTION_UP): 0:(289.96497,1020.7962)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-1.0)
+:Sending Touch (ACTION_DOWN): 0:(377.0,919.0)
+:Sending Touch (ACTION_UP): 0:(382.72348,921.59406)
+:Sending Touch (ACTION_DOWN): 0:(582.0,512.0)
+:Sending Touch (ACTION_UP): 0:(575.05695,499.58987)
+:Sending Trackball (ACTION_MOVE): 0:(-5.0,-4.0)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,4.0)
+    // Rejecting start of Intent { act=android.intent.action.SEND typ=text/plain cmp=com.android.mms/.ui.ComposeMessageActivity } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(190.0,212.0)
+:Sending Touch (ACTION_UP): 0:(192.96199,222.86462)
+    //[calendar_time:2014-12-02 11:22:02.224  system_uptime:14142184]
+    // Sending event #9900
+    //[calendar_time:2014-12-02 11:22:02.224  system_uptime:14142185]
+    // Sending event #9900
+:Sending Touch (ACTION_DOWN): 0:(608.0,200.0)
+:Sending Touch (ACTION_UP): 0:(606.5567,192.60417)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,-2.0)
+    // Rejecting start of Intent { act=android.intent.action.SEND typ=text/plain cmp=com.android.mms/.ui.ComposeMessageActivity } in package com.android.mms
+:Sending Touch (ACTION_DOWN): 0:(180.0,894.0)
+:Sending Touch (ACTION_UP): 0:(173.0531,864.31006)
+:Sending Touch (ACTION_DOWN): 0:(337.0,129.0)
+:Sending Touch (ACTION_UP): 0:(447.67038,93.16467)
+:Sending Touch (ACTION_DOWN): 0:(24.0,546.0)
+:Sending Touch (ACTION_UP): 0:(27.514744,549.213)
+:Sending Trackball (ACTION_MOVE): 0:(2.0,1.0)
+:Sending Touch (ACTION_DOWN): 0:(549.0,144.0)
+:Sending Touch (ACTION_UP): 0:(548.1846,142.88203)
+:Sending Trackball (ACTION_MOVE): 0:(0.0,-4.0)
+    // Allowing start of Intent { cmp=com.soagrowers.android.tripcomputer/.SettingsActivity } in package com.soagrowers.android.tripcomputer
+:Sending Touch (ACTION_DOWN): 0:(601.0,196.0)
+:Sending Touch (ACTION_UP): 0:(609.7706,207.40431)
+:Sending Trackball (ACTION_MOVE): 0:(-4.0,0.0)
+:Sending Touch (ACTION_DOWN): 0:(579.0,597.0)
+:Sending Touch (ACTION_UP): 0:(573.4746,596.73376)
+:Sending Touch (ACTION_DOWN): 0:(272.0,801.0)
+:Sending Touch (ACTION_UP): 0:(354.3792,754.04517)
+:Sending Trackball (ACTION_MOVE): 0:(3.0,-2.0)
+    //[calendar_time:2014-12-02 11:22:02.836  system_uptime:14142796]
+    // Sending event #10000
+Events injected: 10001
+:Sending rotation degree=0, persist=false
+:Dropped: keys=2 pointers=95 trackballs=0 flips=0 rotations=0
+## Network stats: elapsed time=89263ms (0ms mobile, 0ms wifi, 89263ms not connected)
+// Monkey finished

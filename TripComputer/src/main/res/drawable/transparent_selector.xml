@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- This Selector is used to make sure that TextView's don't 'double-highlight'
+when used by layouts that are 'clickable' -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- pressed -->
+    <item android:state_pressed="true" android:drawable="@android:color/transparent"/>
+    <!-- focused -->
+    <item android:state_focused="true" android:drawable="@android:color/transparent"/>
+    <!--default -->
+    <item android:drawable="@android:color/transparent"/>
+</selector>
+

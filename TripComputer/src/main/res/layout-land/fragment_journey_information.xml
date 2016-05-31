@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="?android:scrollViewStyle"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/card_margin_top"
+    android:paddingRight="@dimen/card_margin_top"
+    android:paddingTop="@dimen/card_margin_top"
+    android:paddingBottom="@dimen/zero_dip"
+    android:scrollbars="none"
+    tools:scrollbars="none">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <LinearLayout style="@style/HorizontalDoubleColCardList">
+            <include layout="@layout/layout_started_time" />
+            <include layout="@layout/layout_ended_time" />
+            <include layout="@layout/layout_activity"/>
+
+            <include layout="@layout/layout_average_speed" />
+            <include layout="@layout/layout_started_in" />
+            <include layout="@layout/layout_heading"/>
+
+
+            <!-- ADVANCED CARDS -->
+            <include layout="@layout/layout_latitude" />
+            <include layout="@layout/layout_longitude" />
+
+            <!-- LAYOUT BUTTON BAR SPACER -->
+            <include layout="@layout/button_bar_spacer"/>
+        </LinearLayout>
+
+        <LinearLayout style="@style/HorizontalDoubleColCardList">
+            <include layout="@layout/layout_duration" />
+            <include layout="@layout/layout_distance" />
+            <include layout="@layout/layout_charge" />
+            <include layout="@layout/layout_currently_in" />
+            <include layout="@layout/layout_ended_in" />
+
+            <!-- ADVANCED CARDS -->
+            <include layout="@layout/layout_location_accuracy"/>
+            <include layout="@layout/layout_location_qty"/>
+            <include layout="@layout/layout_altitude"/>
+
+            <!-- LAYOUT BUTTON BAR SPACER -->
+            <include layout="@layout/button_bar_spacer"/>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

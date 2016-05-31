@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+
+Uses drawable/card_background_day.xml or drawable/card_background_night.xml depending on the NIGHT_MODE setting.
+Had to use a hack to get the background technique to work with different themes. This is possibly because the SOLID shapes used
+by the UI as card backgrounds seem to be immutable and won't allow the use of attrs.xml based definitions for their colour.
+Workaround is to use 2 files (day/night) with fixed colours, but get the Style for the Layout to use a STRING attribute
+for the background name which can be switched at runtime.
+
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Shadow -->
+    <item
+        android:top="@dimen/card_shadow_layer_buffer_night">
+        <shape
+            android:shape="rectangle"
+            android:dither="true">
+
+            <corners android:radius="@dimen/corner_radius_shadow_night" />
+
+            <!--solid android:color="@color/sysMdLtGray" /-->
+            <gradient
+                android:startColor="@color/TripComputerCardShadowNight"
+                android:centerColor="@color/TripComputerCardShadowNight"
+                android:endColor="@color/TripComputerScreenBackgroundNight"
+                android:angle="270" />
+
+        </shape>
+    </item>
+
+    <!-- Card -->
+    <item
+        android:bottom="@dimen/card_shadow_layer_reveal_night">
+        <shape
+            android:shape="rectangle"
+            android:dither="false">
+
+            <corners android:radius="@dimen/corner_radius_card_night" />
+
+            <solid android:color="@color/TripComputerCardBackgroundNight" />
+
+            <!-- inner space padding (bottom is std + reveal = 12dp)-->
+            <padding
+                android:bottom="12dp"
+                android:left="@dimen/card_padding"
+                android:right="@dimen/card_padding"
+                android:top="@dimen/card_padding" />
+        </shape>
+    </item>
+</layer-list>

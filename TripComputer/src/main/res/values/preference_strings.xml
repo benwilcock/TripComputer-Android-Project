@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Categories -->
+    <string name="pref_Category_Basic">Basic Settings</string>
+    <string name="pref_Category_Advanced">Advanced Settings</string>
+
+    <!-- Preferences -->
+    <string name="charge_per_unit">0.45</string>
+    <string name="fixed_rate_format">#######0.00</string>
+
+    <!-- Setting for Units of Distance (Miles, Kilometers, etc. -->
+    <string name="DISTANCE_UNITS_KEY">com.soagrowers.android.tripcomputer.DISTANCE_UNITS_KEY</string>
+    <string name="pref_TitleDistanceUnits">Measurements</string>
+    <string name="pref_dialogHeadingDistanceUnits">Preferred Measurement Units</string>
+    <string name="pref_DistanceUnitsSummaryPrefix">Measure distances in</string>
+    <string-array name="pref_dialogChoicesUnitTypes">
+        <item>Miles</item>
+        <item>Kilometers</item>
+        <item>Meters</item>
+    </string-array>
+    <string-array name="pref_DistanceUnitTypeValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string name="pref_DistanceUnitTypeDefaultValue">0</string>
+
+    <!-- Setting for Location Accuracy Threshold (Low, Medium, High) -->
+    <string name="ACCURACY_THRESHOLD_KEY">com.soagrowers.android.tripcomputer.ACCURACY_THRESHOLD_KEY</string>
+    <string name="pref_TitleAccuracyThreshold">Accuracy Threshold</string>
+    <string name="pref_dialogHeadingAccuracyThreshold">Select Accuracy Threshold</string>
+    <string name="pref_AccuracyThresholdSummaryPrefix">Accept locations that are accurate to anywhere within</string>
+    <string-array name="pref_dialogChoicesAccuracyThresholdTypes">
+        <item>Low (within 300m)</item>
+        <item>Medium (within 150m)</item>
+        <item>High (within 15m)</item>
+    </string-array>
+    <string-array name="pref_AccuracyThresholdTypeValues">
+        <item>300</item>
+        <item>150</item>
+        <item>15</item>
+    </string-array>
+    <string name="pref_AccuracyThresholdTypeDefaultValue">300</string>
+
+
+    <!-- Setting for Charge per Unit of Distance ($0.45 Per Mile etc.)
+        <string name="pref_UnitChargeDefaultValue">45</string>
+        -->
+    <string name="DISTANCE_UNIT_CHARGE_KEY">com.soagrowers.android.tripcomputer.DISTANCE_UNIT_CHARGE_KEY</string>
+    <string name="pref_TitleDistanceUnitCharge">Charge</string>
+    <string name="pref_DialogueTitleDistanceUnitCharge">Choose Charge Per Unit</string>
+    <string name="pref_TitleDistanceUnitMessage">Choose the amount to charge per unit of distance</string>
+    <string name="per">per</string>
+    <string name="pref_InputFailureTitle">Change Discarded</string>
+    <string name="pref_InputFailureMessage">Please enter a valid decimal value, e.g. 0.45</string>
+
+    <!-- Setting for Location Mode -->
+    <string name="LOW_POWER_MODE_KEY">com.soagrowers.android.tripcomputer.LOW_POWER_MODE_KEY</string>
+    <string name="pref_LowPowerMode_Title">Battery Saver</string>
+    <string name="pref_LowPowerMode_Summary">Uses WiFi &amp; Cell networks to determine your approximate location</string>
+
+    <!-- Setting for Location Mode -->
+    <string name="NIGHT_MODE_KEY">com.soagrowers.android.tripcomputer.NIGHT_MODE_KEY</string>
+    <string name="pref_NightMode_Title">Dark Theme</string>
+    <string name="pref_NightMode_Summary">Reduces visual glare from the screen during nighttime use</string>
+
+    <!-- Setting for Stay Awake Mode -->
+    <string name="STAY_AWAKE_KEY">com.soagrowers.android.tripcomputer.STAY_AWAKE_KEY</string>
+    <string name="pref_StayAwake_Title">Keep Screen On</string>
+    <string name="pref_StayAwake_Summary">Stops the screen from dimming when Trip Computer is visible</string>
+
+    <!-- Setting for Advanced Cards -->
+    <string name="ADVANCED_CARDS_KEY">com.soagrowers.android.tripcomputer.ADVANCED_CARDS_KEY</string>
+    <string name="pref_AdvancedCards_Title">Show More Cards</string>
+    <string name="pref_AdvancedCards_Summary">Show the latitude, longitude,and accuracy of location updates</string>
+
+    <!-- Setting for Auto Start & Stop -->
+    <string name="AUTO_STARTSTOP_KEY">com.soagrowers.android.tripcomputer.AUTO_STARTSTOP_KEY</string>
+    <string name="pref_AutoStartStop_Title">Auto START / STOP</string>
+    <string name="pref_AutoStartStop_Summary">Start automatically when you\'re driving, running or cycling. Stop recording when you\'re totally still for several minutes.</string>
+
+    <!-- Setting for Ignoring Short Journeys -->
+    <string name="IGNORE_SHORT_TRIPS_KEY">com.soagrowers.android.tripcomputer.IGNORE_SHORT_TRIPS_KEY</string>
+    <string name="pref_IgnoreShortTrips_Title">Ignore Short Journeys</string>
+    <string name="pref_IgnoreShortTrips_Summary">Journeys shorter than 800m will not be saved</string>
+</resources>

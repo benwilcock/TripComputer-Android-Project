@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><!-- NUMBER PICKER allowed in HONEYCOMB v11 onwards -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:gravity="center">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/recommended_padding"
+            android:text="@string/currency"
+            android:id="@+id/currency"
+            android:textSize="@dimen/text_size_large" />
+
+        <NumberPicker
+            android:id="@+id/numberpicker_pounds"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/recommended_padding"
+            android:text="."
+            android:id="@+id/dot"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="bold"/>
+
+        <NumberPicker
+            android:id="@+id/numberpicker_shillings"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <NumberPicker
+            android:id="@+id/numberpicker_pence"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/pence"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/recommended_padding"
+            android:text="@string/pence"
+            android:textSize="@dimen/text_size_medium"
+            android:textStyle="normal"/>
+    </LinearLayout>
+</LinearLayout>

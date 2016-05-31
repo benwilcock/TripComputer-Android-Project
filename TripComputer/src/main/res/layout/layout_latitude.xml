@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- new line 'Lattitude' -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:visibility="visible"
+    style="@style/CardItem"
+    android:id="@+id/layout_lattitude">
+
+    <TextView
+        style="@style/TextViewBase.Title"
+        android:text="@string/label_lat"/>
+
+    <TextView
+        style="@style/TextViewBase.Detail"
+        android:id="@+id/currentLatitude"
+        android:text="@string/txt_blank"
+        tools:text="51.1471112" />
+</LinearLayout>

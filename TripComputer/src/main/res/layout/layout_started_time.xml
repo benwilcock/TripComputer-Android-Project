@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- new line 'Started At' -->
+<!--special case - visibility ON for testing in emulator-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:visibility="visible"
+    style="@style/CardItem"
+    android:visibility="visible"
+    android:id="@+id/layout_startedTime">
+
+    <TextView
+        style="@style/TextViewBase.Title"
+        android:text="@string/label_time"/>
+
+    <TextView
+        style="@style/TextViewBase.Detail"
+        android:id="@+id/startedTime"
+        tools:text="Press Start"/>
+</LinearLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- new line 'Accuracy' -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:visibility="visible"
+    style="@style/CardItem"
+    android:id="@+id/layout_location_quantity">
+
+    <TextView
+        style="@style/TextViewBase.Title"
+        android:text="@string/label_locquantity"/>
+
+    <TextView
+        style="@style/TextViewBase.Detail"
+        android:id="@+id/loc_qty"
+        android:text="@string/txt_blank"
+        android:maxLines="3"
+        android:maxLength="84"
+        tools:text="19 (79)"/>
+</LinearLayout>

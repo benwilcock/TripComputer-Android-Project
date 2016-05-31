@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<historical-records>
+    <!-- Activity is a ComponentName -->
+    <!-- Time is a long -->
+    <!-- Weight is a float -->
+    <!--<historical-record activity="" time="" weight=""/>-->
+</historical-records>

@@ -1,0 +1,1 @@
+This folder stores binary assets that are required by the app (like files etc.)

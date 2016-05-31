@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress AndroidDomInspection -->
+<resources>
+
+   <!--
+   Persist Last Journey (Shared Prefs)
+   Saves the Journey (running or finished) to shared prefs.
+   Loads the Journey and displays it on boot.
+   -->
+    <bool name="feature.persistLastJourney">true</bool>
+
+    <!--
+    Save All Journey's (to persistent storage)
+    Saves the finished Journey to persistent storage.
+    -->
+    <bool name="feature.persistAllJourneys">true</bool>
+
+    <!--
+    Remember Waypoints
+    Adds accepted Locations as Waypoints to the Journey object.
+    Loads the Journey and displays it on boot.
+    -->
+    <bool name="feature.rememberWaypoints">false</bool>
+
+
+    <!--
+    Allow for testing of in-app products without
+    affecting free versions.
+    -->
+    <bool name="feature.showProducts">false</bool>
+
+</resources>

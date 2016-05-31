@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!-- *** ICS v14 ONWARDS *** -->
+<resources>
+    <!-- actionBarStyle - double setting rule for ActionBarCompat in v14-->
+    <!--style name="AppBaseThemeNight" parent="@style/Theme.AppCompat">
+        <item name="android:actionBarStyle">@style/Widget.Styled.ActionBar.Night</item>
+        <item name="attrMyCardTitleColor">@color/TripComputerCardTitleNight</item>
+        <item name="attrMyCardDetailColor">@color/TripComputerCardDetailNight</item>
+        <item name="attrMyAppScreenBackgroundColor">@color/TripComputerScreenBackgroundNight</item>
+        <item name="attrMyCardBackgroundDrawable">@drawable/card_background_night</item>
+    </style-->
+
+    <!-- background - double setting rule for ActionBarCompat in v14-->
+    <!--style name="Widget.Styled.ActionBar.Night" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@drawable/actionbar_background_night</item>
+    </style-->
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?><!-- new line 'Distance' -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:visibility="visible"
+    style="@style/CardItem"
+    android:id="@+id/layout_distance">
+
+    <TextView
+        style="@style/TextViewBase.Title"
+        android:text="@string/label_distance"/>
+
+    <TextView
+        style="@style/TextViewBase.Detail"
+        android:id="@+id/distance"
+        tools:text="10 mls" />
+</LinearLayout>

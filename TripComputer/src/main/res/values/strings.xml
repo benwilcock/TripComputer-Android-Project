@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- ***************** Global ************************* -->
+    <string name="txt_blank"></string>
+    <string name="url_help">http://android.soagrowers.com/tripcomputer/tripcomputer-help.html</string>
+    <string name="url_rate">https://play.google.com/store/apps/details?id=com.soagrowers.android.tripcomputer</string>
+    <string name="url_app">https://play.google.com/store/apps/details?id=com.soagrowers.android.tripcomputer</string>
+
+    <!-- ***************** Localised ************************* -->
+
+
+    <!-- Value Strings -->
+    <string name="currency">$</string>
+    <string name="pence">c</string>
+
+    <!-- ****************** Not Yet Localised **************************** -->
+
+
+    <!-- Application -->
+    <string name="action_share">Share…</string>
+    <string name="action_rate">Rate…</string>
+    <string name="action_help">User Guide</string>
+    <string name="action_get_products">List Products</string>
+    <string name="action_version">Version</string>
+    <string name="action_share_subject_line">Trip Computer Mileage Tracker</string>
+
+    <!-- Button Labels -->
+    <string name="label_start_button">START</string>
+    <string name="label_stop_button">STOP</string>
+    <string name="label_notification_button_stop">Stop</string>
+    <string name="label_notification_button_start">Start</string>
+    <string name="label_notification_button_toggle_auto">Toggle AUTO</string>
+    <string name="label_notification_button_toggle_saver">Toggle SAVER</string>
+
+    <!-- Notification messages -->
+    <string name="notif_title_recording_started">Recording</string>
+    <string name="notif_title_recording_stopped">Stopped</string>
+    <string name="notif_txt_idle">Trip Computer is on STANDBY</string>
+    <string name="notif_txt_auto_start">AUTO START</string>
+    <string name="notif_txt_auto_stop">AUTO STOP</string>
+    <string name="notif_txt_auto_is_on">AUTO stop is ON.</string>
+    <string name="notif_txt_auto_is_off">AUTO stop is OFF.</string>
+    <string name="notif_txt_saver_is_on">Battery SAVER is ON.</string>
+    <string name="notif_txt_saver_is_off">Battery SAVER is OFF.</string>
+    <string name="notif_txt_auto_is_on_long">AUTO start/stop is ON.</string>
+    <string name="notif_txt_auto_is_off_long">AUTO start/stop is OFF.</string>
+    <string name="notif_txt_covered">You travelled</string>
+    <string name="notif_txt_in">in</string>
+    <string name="notif_txt_you_averaged">You averaged</string>
+    <string name="notif_txt_stopped">Journey recording has stopped</string>
+    <string name="notif_txt_started">Journey recording has started</string>
+    <string name="notif_txt_discarded">The journey was too short to save.</string>
+
+    <!-- UI Labels -->
+    <string name="label_time">Started Time</string>
+    <string name="label_elapsed">Duration</string>
+    <string name="label_stopped">Stopped Time</string>
+    <string name="label_lat">Latitude</string>
+    <string name="label_long">Longitude</string>
+    <string name="label_accuracy">Av. Location Accuracy (Curr.)</string>
+    <!-- <string name="label_accuracy">Location Accuracy (Avg.)</string> -->
+    <string name="label_locquantity">Location Fixes (Received)</string>
+    <!-- <string name="label_locquantity">Location Fixes (Used)</string> -->
+    <string name="label_currentplace">Currently In</string>
+    <string name="label_averagespeed">Average Speed</string>
+    <string name="label_distance">Distance</string>
+    <string name="label_origin">Started In</string>
+    <string name="label_destination">Finished In</string>
+    <string name="label_charge">Cost</string>
+    <string name="label_heading">Current Heading (Degrees)</string>
+    <string name="label_activity">Activity (Confidence)</string>
+    <string name="label_altitude">Altitude</string>
+
+    <!-- String Suffixes -->
+    <string name="txt_miles">miles</string>
+    <string name="txt_kilometers">kilometers</string>
+    <string name="txt_meters">meters</string>
+    <string name="txt_mph">mph</string>
+    <string name="txt_kph">kph</string>
+    <string name="txt_mSec">msec</string>
+    <string name="txt_m">m</string>
+    <string name="txt_used">Used:</string>
+    <string name="txt_unknown">Not Known</string>
+    <string name="txt_total">of</string>
+    <string name="txt_last">Last:</string>
+    <string name="txt_average">Av:</string>
+    <string name="txt_driving">Driving</string>
+    <string name="txt_cycling">Cycling</string>
+    <string name="txt_walking">Walking</string>
+    <string name="txt_running">Running</string>
+    <string name="txt_still">Still</string>
+    <string name="txt_tilting">Tilting</string>
+    <!-- string name="txt_threshold">Threshold: </string -->
+
+
+    <!-- Status & Error Messages -->
+    <string name="error_service_missing">Journey recording is not available.</string>
+    <string name="error_service_startup">TripComputer can\'t start because the background service is unavailable.</string>
+    <string name="error_play_missing">Can\'t start Journey recording because Google Play Services are unavailable.</string>
+    <string name="error_play_disconnected">Google Play Services are not available at all on this device. Trip Computer can\'t start.</string>
+    <string name="error_unknown">Unknown</string>
+    <string name="error_undetermined">Undetermined</string>
+    <string name="error_ioexception">Service issue</string>
+    <string name="error_nolocality">No locality</string>
+    <string name="error_noAddresses">No address nearby</string>
+    <string name="error_threedash">---</string>
+
+    <!-- Dialog Details -->
+    <string name="dialog_title_version">@string/app_name</string>
+
+    <!-- Number & Date Formats -->
+    <string name="format_chronometer_initial">%ss</string>
+    <string name="format_dateandtime">EEE d MMM, h:mm aa</string>
+    <string name="format_log_file_datetime">yyyyMMddHHmmss</string>
+    <string name="format_distance_value">######</string>
+    <string name="format_charge_value">###,###,##0.00</string>
+    <string name="format_charge_rate">#0.00</string>
+    <string name="format_average_speed">#0.0</string>
+    <string name="format_altitude">#0.0</string>
+    <string name="format_location_accuracy">##0.0</string>
+    <string name="format_location_qty">####0</string>
+    <string name="format_degrees">##0</string>
+
+    <!-- Toasts -->
+    <string name="toast_ignore_journey">The journey was too short to save.</string>
+
+    <!-- Showcases -->
+    <string name="showcase_welcome_message_txt">Welcome to Trip Computer</string>
+    <string name="showcase_install_thanks_txt">Thanks for installing, we hope you like it!</string>
+    <string name="showcase_next_button_txt">Next…</string>
+    <string name="showcase_getting_started_txt">Getting started…</string>
+    <string name="showcase_start_instruction_txt">To record a journey, simply press the green START button at the bottom of the screen...</string>
+    <string name="showcase_gotit_button_txt">OK. Got it!</string>
+    <string name="title_activity_recycler">RecyclerActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources> <!-- ***************** Historic Unused Values ************************* -->
+<!-- Analytics Event Categories -->
+<!--
+string name="JourneyEventCategory">JourneyEvents</string>
+<string name="JourneySettingsCategory">JourneySettings</string
+-->
+<!-- Analytics Event Actions -->
+<!--
+string name="JourneyEventActionStartManual">Manual Start</string>
+<string name="JourneyEventActionStopManual">Manual Stop</string>
+<string name="JourneyEventActionStartAutomatic">Auto Start</string>
+<string name="JourneyEventActionStopAutomatic">Auto Stop</string>
+<string name="JourneyEventActionSaved">Journey Saved</string>
+<string name="JourneyEventActionNotSaved">Journey Discarded</string>
+<string name="JourneySettingsActionBatterySaverOn">Battery Saver On</string>
+<string name="JourneySettingsActionBatterySaverOff">Battery Saver Off</string
+-->
+<!-- Analytics Event Labels (Optional) -->
+<!-- string name="JourneyEventLabelDistanceMtrs">DistanceMtrs</string -->
+<!-- <string name="JourneyEventLabelManual">Manual</string> -->
+<!-- <string name="homePath">HomeScreen</string> -->
+<!--
+kk:mm:ss
+kk:mm:ss aa EEE, MMM d, yyyy
+<bool name="debug">true</bool>
+<string name="dialogActionCancel">Cancel</string>
+<string name="dialogActionDone">Done</string>
+<string name="reset_button_label">Reset</string>
+<string name="action_chooseunits">Distance Units</string>
+<string name="action_sensors">Show Sensors</string>
+<string name="action_startservice">Start Service</string>
+<string name="action_bindservice">Bind Service</string>
+<string name="action_unbindservice">Unbind Service</string>
+<string name="action_dumpservice">Log Service State</string>
+<string name="toast_journey_started">A new Journey has begun...</string>
+<string name="toast_journey_ended">Your Journey has come to an end.</string>
+<string name="start_toast">Timer Started</string>
+<string name="stop_toast">Timer Stopped</string>
+<string name="reset_toast">Timer Reset</string>
+<string name="settings_toast">Implement some settings Ben!</string>
+<string name="oncreate_toast">Creating App</string>
+<string name="onstart_toast">Starting App</string>
+<string name="onresume_toast">Resuming App</string>
+<string name="onpause_toast">Pausing App</string>
+<string name="onrestart_toast">Re-starting App</string>
+<string name="onstopped_toast">Stopped App</string>
+<string name="ondestroy_toast">Destroying App</string>
+<string name="onsaveinstancestate_toast">Stopped App</string>
+<string name="onrestoreinstancestate_toast">Stopped App</string>
+<string name="toast_cannot_change_distance_units">Stop the journey first.</string>
+<string name="timingslabel">Current Journey</string>
+<string name="positionlabel">Current Location</string>
+<string name="sensorlabel">Sensor Readings</string>
+<string name="volumelabel">Volume</string>
+<string name="currentspeedlabel">Current speed</string>
+<string name="datelabel">Date</string>
+<string name="gpslat">Unknown</string>
+<string name="gpslong">Unknown</string>
+<string name="blank_time"></string>
+<string name="blank_chron"></string>
+<string name="play_update">Google Play Services requires an setMainText.</string>
+<string name="play_available">Google Play Services are available on this device.</string>
+<string name="play_disabled">Google Play Services are disabled.</string>
+<string name="play_connected">Connected to Google Play Services.</string>
+<string name="location_error">There was a problem getting the current location (location settings?).</string>
+<string name="date_format">EEE, MMM d</string>
+<string name="mph_format">###</string>
+<string name="acceleration_format">0.00</string>
+<string name="service_started">The TripComputer Service has started.</string>
+<string name="service_stopped">The TripComputer Service has stopped.</string>
+<string name="service_cannot_stop">A Journey is being recorded.</string>
+-->

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Button Bar -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/TextButtonBarStyle"
+    android:id="@+id/fragment_button_bar">
+
+    <!-- Stop button -->
+    <LinearLayout
+        style="@style/TextButtonLayoutStyle"
+        android:id="@+id/button_stop"
+        android:visibility="gone"
+        android:background="@drawable/button_stop_background"
+        tools:visibility="visible">
+
+        <TextView
+            style="@style/TextButtonTextStyle"
+            android:text="@string/label_stop_button" />
+    </LinearLayout>
+
+    <!-- Start button -->
+    <LinearLayout
+        style="@style/TextButtonLayoutStyle"
+        android:id="@+id/button_start"
+        android:visibility="visible"
+        android:background="@drawable/button_start_background"
+        tools:visibility="visible">
+
+        <TextView
+            style="@style/TextButtonTextStyle"
+            android:text="@string/label_start_button" />
+    </LinearLayout>
+</LinearLayout>
+
